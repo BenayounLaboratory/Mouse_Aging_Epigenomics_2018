@@ -1,0 +1,1564 @@
+Cell type	Notes	STAR mapped file	read counts	Bulk_Single
+Adipocytes	Classical brown adipocyte	ERR525589Aligned.out.bam	ERR525589Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	Classical brown adipocyte	ERR525592Aligned.out.bam	ERR525592Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	cultured brown adipocyte	SRR275532Aligned.out.bam	SRR275532Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	primary brown adipocyte	SRR275534Aligned.out.bam	SRR275534Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	cultured brown adipocyte	SRR278172Aligned.out.bam	SRR278172Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	rosiglitazone-treated adipocyte (beige cell)	ERR525591Aligned.out.bam	ERR525591Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	rosiglitazone-treated adipocyte (beige cell)	ERR525593Aligned.out.bam	ERR525593Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	inguinal white adipocyte	ERR525590Aligned.out.bam	ERR525590Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	inguinal white adipocyte	ERR525594Aligned.out.bam	ERR525594Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	gonadal white adipose tissue, male	SRR1873549Aligned.out.bam	SRR1873549Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	gonadal white adipose tissue, male	SRR1873550Aligned.out.bam	SRR1873550Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	gonadal white adipose tissue, male	SRR1873551Aligned.out.bam	SRR1873551Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	gonadal white adipose tissue, male	SRR1873552Aligned.out.bam	SRR1873552Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	cultured White_adipocytes	SRR275529Aligned.out.bam	SRR275529Aligned.out_counts_genes_mm9.txt	Bulk
+Adipocytes	primary White_adipocytes	SRR275533Aligned.out.bam	SRR275533Aligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	aNSCs SVZ, 3m	PGE_young_DAligned.out.bam	PGE_young_DAligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	aNSCs SVZ, 3m	PGE_young_EAligned.out.bam	PGE_young_EAligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	aNSCs SVZ, 3m	PGE_young_FAligned.out.bam	PGE_young_FAligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep1	SRR1997853Aligned.out.bam	SRR1997853Aligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep2	SRR1997854Aligned.out.bam	SRR1997854Aligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep3	SRR1997855Aligned.out.bam	SRR1997855Aligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep4	SRR1997856Aligned.out.bam	SRR1997856Aligned.out_counts_genes_mm9.txt	Bulk
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189465Aligned.out.bam	GSM2189465Aligned.out_counts_genes_mm9.txt	Single
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189469Aligned.out.bam	GSM2189469Aligned.out_counts_genes_mm9.txt	Single
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189476Aligned.out.bam	GSM2189476Aligned.out_counts_genes_mm9.txt	Single
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189489Aligned.out.bam	GSM2189489Aligned.out_counts_genes_mm9.txt	Single
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189506Aligned.out.bam	GSM2189506Aligned.out_counts_genes_mm9.txt	Single
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189508Aligned.out.bam	GSM2189508Aligned.out_counts_genes_mm9.txt	Single
+aNSCs	Steve_quake Striatum scRNAseq	GSM2189553Aligned.out.bam	GSM2189553Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033783Aligned.out.bam	SRR1033783Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033784Aligned.out.bam	SRR1033784Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 7months	SRR2961938Aligned.out.bam	SRR2961938Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 13months	SRR2961946Aligned.out.bam	SRR2961946Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 13months	SRR2961948Aligned.out.bam	SRR2961948Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 7months	SRR2961952Aligned.out.bam	SRR2961952Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 7months	SRR2961955Aligned.out.bam	SRR2961955Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 13months	SRR2961965Aligned.out.bam	SRR2961965Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 13months	SRR2961968Aligned.out.bam	SRR2961968Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Male 13months	SRR2961971Aligned.out.bam	SRR2961971Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 7months	SRR2961973Aligned.out.bam	SRR2961973Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Female 7months	SRR2961985Aligned.out.bam	SRR2961985Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Astrocytes SVZ, 3m	G_young_CAligned.out.bam	G_young_CAligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Astrocytes SVZ, 3m	G_young_DAligned.out.bam	G_young_DAligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Astrocytes SVZ, 3m	G_young_EAligned.out.bam	G_young_EAligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Astrocytes SVZ, 3m	G_young_FAligned.out.bam	G_young_FAligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Mouse 4 month astro SRR2557110	SRR2557110Aligned.out.bam	SRR2557110Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Mouse 7 month astro SRR2557111	SRR2557111Aligned.out.bam	SRR2557111Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	Mouse 9 month astro SRR2557112	SRR2557112Aligned.out.bam	SRR2557112Aligned.out_counts_genes_mm9.txt	Bulk
+Astrocytes	S9 CD133+/GFAP+, ABI SOliD sequencing	SRR1572706Aligned.out.bam	SRR1572706Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	S10 CD133+/GFAP+, ABI SOliD sequencing	SRR1572707Aligned.out.bam	SRR1572707Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188967Aligned.out.bam	GSM2188967Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188968Aligned.out.bam	GSM2188968Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188969Aligned.out.bam	GSM2188969Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188970Aligned.out.bam	GSM2188970Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188971Aligned.out.bam	GSM2188971Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188972Aligned.out.bam	GSM2188972Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188973Aligned.out.bam	GSM2188973Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188974Aligned.out.bam	GSM2188974Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188975Aligned.out.bam	GSM2188975Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188976Aligned.out.bam	GSM2188976Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188978Aligned.out.bam	GSM2188978Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188979Aligned.out.bam	GSM2188979Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188980Aligned.out.bam	GSM2188980Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188981Aligned.out.bam	GSM2188981Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188982Aligned.out.bam	GSM2188982Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188983Aligned.out.bam	GSM2188983Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188984Aligned.out.bam	GSM2188984Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188985Aligned.out.bam	GSM2188985Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188986Aligned.out.bam	GSM2188986Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188987Aligned.out.bam	GSM2188987Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188988Aligned.out.bam	GSM2188988Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188989Aligned.out.bam	GSM2188989Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188990Aligned.out.bam	GSM2188990Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188991Aligned.out.bam	GSM2188991Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188992Aligned.out.bam	GSM2188992Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188993Aligned.out.bam	GSM2188993Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188994Aligned.out.bam	GSM2188994Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188995Aligned.out.bam	GSM2188995Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188996Aligned.out.bam	GSM2188996Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188997Aligned.out.bam	GSM2188997Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188998Aligned.out.bam	GSM2188998Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2188999Aligned.out.bam	GSM2188999Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189000Aligned.out.bam	GSM2189000Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189001Aligned.out.bam	GSM2189001Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189002Aligned.out.bam	GSM2189002Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189003Aligned.out.bam	GSM2189003Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189004Aligned.out.bam	GSM2189004Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189005Aligned.out.bam	GSM2189005Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189030Aligned.out.bam	GSM2189030Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189032Aligned.out.bam	GSM2189032Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189033Aligned.out.bam	GSM2189033Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189034Aligned.out.bam	GSM2189034Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189035Aligned.out.bam	GSM2189035Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189036Aligned.out.bam	GSM2189036Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189037Aligned.out.bam	GSM2189037Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189038Aligned.out.bam	GSM2189038Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189089Aligned.out.bam	GSM2189089Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189090Aligned.out.bam	GSM2189090Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189091Aligned.out.bam	GSM2189091Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189316Aligned.out.bam	GSM2189316Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189338Aligned.out.bam	GSM2189338Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189347Aligned.out.bam	GSM2189347Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189354Aligned.out.bam	GSM2189354Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189355Aligned.out.bam	GSM2189355Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189356Aligned.out.bam	GSM2189356Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189357Aligned.out.bam	GSM2189357Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189358Aligned.out.bam	GSM2189358Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189359Aligned.out.bam	GSM2189359Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189374Aligned.out.bam	GSM2189374Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189375Aligned.out.bam	GSM2189375Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189376Aligned.out.bam	GSM2189376Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189377Aligned.out.bam	GSM2189377Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189378Aligned.out.bam	GSM2189378Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189379Aligned.out.bam	GSM2189379Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189412Aligned.out.bam	GSM2189412Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189413Aligned.out.bam	GSM2189413Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189414Aligned.out.bam	GSM2189414Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189415Aligned.out.bam	GSM2189415Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189417Aligned.out.bam	GSM2189417Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189419Aligned.out.bam	GSM2189419Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189420Aligned.out.bam	GSM2189420Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189437Aligned.out.bam	GSM2189437Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189438Aligned.out.bam	GSM2189438Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189439Aligned.out.bam	GSM2189439Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189440Aligned.out.bam	GSM2189440Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189441Aligned.out.bam	GSM2189441Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189442Aligned.out.bam	GSM2189442Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189443Aligned.out.bam	GSM2189443Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189444Aligned.out.bam	GSM2189444Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189445Aligned.out.bam	GSM2189445Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189446Aligned.out.bam	GSM2189446Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189447Aligned.out.bam	GSM2189447Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189448Aligned.out.bam	GSM2189448Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189449Aligned.out.bam	GSM2189449Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189450Aligned.out.bam	GSM2189450Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189459Aligned.out.bam	GSM2189459Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189460Aligned.out.bam	GSM2189460Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189461Aligned.out.bam	GSM2189461Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189462Aligned.out.bam	GSM2189462Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189463Aligned.out.bam	GSM2189463Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189472Aligned.out.bam	GSM2189472Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189507Aligned.out.bam	GSM2189507Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189513Aligned.out.bam	GSM2189513Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189533Aligned.out.bam	GSM2189533Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189540Aligned.out.bam	GSM2189540Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189542Aligned.out.bam	GSM2189542Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189544Aligned.out.bam	GSM2189544Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189545Aligned.out.bam	GSM2189545Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189560Aligned.out.bam	GSM2189560Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189577Aligned.out.bam	GSM2189577Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189578Aligned.out.bam	GSM2189578Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189584Aligned.out.bam	GSM2189584Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189585Aligned.out.bam	GSM2189585Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189595Aligned.out.bam	GSM2189595Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189596Aligned.out.bam	GSM2189596Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189598Aligned.out.bam	GSM2189598Aligned.out_counts_genes_mm9.txt	Single
+Astrocytes	Steve_quake Striatum scRNAseq	GSM2189599Aligned.out.bam	GSM2189599Aligned.out_counts_genes_mm9.txt	Single
+B_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536411Aligned.out.bam	SRR1536411Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536412Aligned.out.bam	SRR1536412Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	ImmGen RNAseq, B1ab_cells	SRR1976588Aligned.out.bam	SRR1976588Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	ImmGen RNAseq, CD19+_B_cell	SRR1976593Aligned.out.bam	SRR1976593Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	C57BL/6, Ex vivo, Follicular_B_cells	SRR1561641Aligned.out.bam	SRR1561641Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	C57BL/6, Ex vivo, Follicular_B_cells	SRR1561642Aligned.out.bam	SRR1561642Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	C57BL/6, Ex vivo, Germinal_center_B_cells	SRR1561646Aligned.out.bam	SRR1561646Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	C57BL/6, Ex vivo, Germinal_center_B_cells	SRR1561647Aligned.out.bam	SRR1561647Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	C57BL/6, Ex vivo, Germinal_center_B_cells	SRR1561648Aligned.out.bam	SRR1561648Aligned.out_counts_genes_mm9.txt	Bulk
+B_cells	B Cell_C57BL/6J__4 to 6 (week)_lymphocyte of B lineage_B220+, IgM+, CD3-, CD4-, CD8-, Ter119-, Gr1-, Mac1-__      	ERR674979Aligned.out.bam	ERR674979Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233039Aligned.out.bam	SRR1233039Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233040Aligned.out.bam	SRR1233040Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233041Aligned.out.bam	SRR1233041Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233042Aligned.out.bam	SRR1233042Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233043Aligned.out.bam	SRR1233043Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233044Aligned.out.bam	SRR1233044Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233045Aligned.out.bam	SRR1233045Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233046Aligned.out.bam	SRR1233046Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233047Aligned.out.bam	SRR1233047Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233048Aligned.out.bam	SRR1233048Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233049Aligned.out.bam	SRR1233049Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233050Aligned.out.bam	SRR1233050Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233051Aligned.out.bam	SRR1233051Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233052Aligned.out.bam	SRR1233052Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233053Aligned.out.bam	SRR1233053Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233054Aligned.out.bam	SRR1233054Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233055Aligned.out.bam	SRR1233055Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233056Aligned.out.bam	SRR1233056Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	CD-1, Cardiomyocyte E 14.5 	SRR1233057Aligned.out.bam	SRR1233057Aligned.out_counts_genes_mm9.txt	Single
+Cardiomyocytes	FVB/NJ, 12 weeks,female,tissue: heart	SRR1390711Aligned.out.bam	SRR1390711Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	FVB/NJ, 12 weeks,female,tissue: heart	SRR1390712Aligned.out.bam	SRR1390712Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	FVB/NJ, 12 weeks,female,tissue: heart	SRR1390713Aligned.out.bam	SRR1390713Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	isolated adult mouse ventricular cardiomyocytes, CM_1	SRR2006897Aligned.out.bam	SRR2006897Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	isolated adult mouse ventricular cardiomyocytes, CM_1	SRR2006898Aligned.out.bam	SRR2006898Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	isolated adult mouse ventricular cardiomyocytes, CM_2	SRR2006899Aligned.out.bam	SRR2006899Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	isolated adult mouse ventricular cardiomyocytes, CM_2	SRR2006900Aligned.out.bam	SRR2006900Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	isolated adult mouse ventricular cardiomyocytes, CM_3	SRR2006901Aligned.out.bam	SRR2006901Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	isolated adult mouse ventricular cardiomyocytes, CM_3	SRR2006902Aligned.out.bam	SRR2006902Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	PN67, adult	SRR964799Aligned.out.bam	SRR964799Aligned.out_counts_genes_mm9.txt	Bulk
+Cardiomyocytes	PN30	SRR964800Aligned.out.bam	SRR964800Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033795Aligned.out.bam	SRR1033795Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033796Aligned.out.bam	SRR1033796Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	Endothelial cell SVZ, 3m	CD31_young_CAligned.out.bam	CD31_young_CAligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	Endothelial cell SVZ, 3m	CD31_young_DAligned.out.bam	CD31_young_DAligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	Endothelial cell SVZ, 3m	CD31_young_EAligned.out.bam	CD31_young_EAligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	Endothelial cell SVZ, 3m	CD31_young_FAligned.out.bam	CD31_young_FAligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	C57BL/6NJ, 4 to 6 week. GFP+ CD31+ VE-Cadherin+ CD45-Ter119-7AAD- 	ERR599390Aligned.out.bam	ERR599390Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	1_KT+VECs_rep1, vascular endothelial cells	SRR1631762Aligned.out.bam	SRR1631762Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	2_KT+VECs_rep2, vascular endothelial cells	SRR1631763Aligned.out.bam	SRR1631763Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	3_KT+VECs_rep3, vascular endothelial cells	SRR1631764Aligned.out.bam	SRR1631764Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	4_KT-VECs_rep1, vascular endothelial cells	SRR1631765Aligned.out.bam	SRR1631765Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	5_KT-VECs_rep2, vascular endothelial cells	SRR1631766Aligned.out.bam	SRR1631766Aligned.out_counts_genes_mm9.txt	Bulk
+Endothelial_cells	6_KT-VECs_rep3, vascular endothelial cells	SRR1631767Aligned.out.bam	SRR1631767Aligned.out_counts_genes_mm9.txt	Bulk
+Ependymal_cells	S1 CD133+/GFAP- , ABI SOliD sequencing	SRR1572698Aligned.out.bam	SRR1572698Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S2 CD133+/GFAP-, ABI SOliD sequencing	SRR1572699Aligned.out.bam	SRR1572699Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S3 CD133+/GFAP-, ABI SOliD sequencing	SRR1572700Aligned.out.bam	SRR1572700Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S6 CD133+/GFAP-, ABI SOliD sequencing	SRR1572703Aligned.out.bam	SRR1572703Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S7 CD133+/GFAP-, ABI SOliD sequencing	SRR1572704Aligned.out.bam	SRR1572704Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S8 CD133+/GFAP-, ABI SOliD sequencing	SRR1572705Aligned.out.bam	SRR1572705Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S16 CD133+/GFAP-, ABI SOliD sequencing	SRR1572713Aligned.out.bam	SRR1572713Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	S17 CD133+/GFAP-, ABI SOliD sequencing	SRR1572714Aligned.out.bam	SRR1572714Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189331Aligned.out.bam	GSM2189331Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189341Aligned.out.bam	GSM2189341Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189350Aligned.out.bam	GSM2189350Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189351Aligned.out.bam	GSM2189351Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189352Aligned.out.bam	GSM2189352Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189353Aligned.out.bam	GSM2189353Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189418Aligned.out.bam	GSM2189418Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189531Aligned.out.bam	GSM2189531Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189536Aligned.out.bam	GSM2189536Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189543Aligned.out.bam	GSM2189543Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189549Aligned.out.bam	GSM2189549Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189569Aligned.out.bam	GSM2189569Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189587Aligned.out.bam	GSM2189587Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189590Aligned.out.bam	GSM2189590Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189591Aligned.out.bam	GSM2189591Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189594Aligned.out.bam	GSM2189594Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189601Aligned.out.bam	GSM2189601Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-C	GSM2189664Aligned.out.bam	GSM2189664Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189314Aligned.out.bam	GSM2189314Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189322Aligned.out.bam	GSM2189322Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189330Aligned.out.bam	GSM2189330Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189373Aligned.out.bam	GSM2189373Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189387Aligned.out.bam	GSM2189387Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189390Aligned.out.bam	GSM2189390Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189392Aligned.out.bam	GSM2189392Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189393Aligned.out.bam	GSM2189393Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189394Aligned.out.bam	GSM2189394Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189397Aligned.out.bam	GSM2189397Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189398Aligned.out.bam	GSM2189398Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189399Aligned.out.bam	GSM2189399Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189400Aligned.out.bam	GSM2189400Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189404Aligned.out.bam	GSM2189404Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189416Aligned.out.bam	GSM2189416Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189436Aligned.out.bam	GSM2189436Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189452Aligned.out.bam	GSM2189452Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189546Aligned.out.bam	GSM2189546Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189589Aligned.out.bam	GSM2189589Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189592Aligned.out.bam	GSM2189592Aligned.out_counts_genes_mm9.txt	Single
+Ependymal_cells	Steve_quake Striatum scRNAseq, Ependy-Sec	GSM2189593Aligned.out.bam	GSM2189593Aligned.out_counts_genes_mm9.txt	Single
+Erythrocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536427Aligned.out.bam	SRR1536427Aligned.out_counts_genes_mm9.txt	Bulk
+Erythrocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536428Aligned.out.bam	SRR1536428Aligned.out_counts_genes_mm9.txt	Bulk
+Erythrocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536429Aligned.out.bam	SRR1536429Aligned.out_counts_genes_mm9.txt	Bulk
+Erythrocytes	Nuc.Erythro_C57BL/6J__4 to 6 (week)_nucleate erythrocyte_Ter119+, CD71+, CD3-, CD4-, CD8-, B220-, IgM-, Gr1-, Mac1-	ERR674978Aligned.out.bam	ERR674978Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888151_Bone_SCA1p_1	SRR2443105Aligned.out.bam	SRR2443105Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888151_Bone_SCA1p_1	SRR2443106Aligned.out.bam	SRR2443106Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888151_Bone_SCA1p_1	SRR2443107Aligned.out.bam	SRR2443107Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888152_Bone_SCA1p_2	SRR2443108Aligned.out.bam	SRR2443108Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888152_Bone_SCA1p_2	SRR2443109Aligned.out.bam	SRR2443109Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888152_Bone_SCA1p_2	SRR2443110Aligned.out.bam	SRR2443110Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888153_Bone_SCA1p_3	SRR2443111Aligned.out.bam	SRR2443111Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888153_Bone_SCA1p_3	SRR2443112Aligned.out.bam	SRR2443112Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888153_Bone_SCA1p_3	SRR2443113Aligned.out.bam	SRR2443113Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	FVB/NJ, 12 weeks,female,tissue: heart Cardiac_fibroblasts	SRR1390714Aligned.out.bam	SRR1390714Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	FVB/NJ, 12 weeks,female,tissue: heart Cardiac_fibroblasts	SRR1390715Aligned.out.bam	SRR1390715Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	FVB/NJ, 12 weeks,female,tissue: heart Cardiac_fibroblasts	SRR1390716Aligned.out.bam	SRR1390716Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	THY1+HE-, control, rep1 Cardiac_fibroblasts	SRR1015749Aligned.out.bam	SRR1015749Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	THY1+HE-, control, rep2 Cardiac_fibroblasts	SRR1015750Aligned.out.bam	SRR1015750Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	THY1+HE-, control, rep3 Cardiac_fibroblasts	SRR1015751Aligned.out.bam	SRR1015751Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	PN60, adult Cardiac_fibroblasts	SRR964795Aligned.out.bam	SRR964795Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	PN28 Cardiac_fibroblasts	SRR964796Aligned.out.bam	SRR964796Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	ear fibroblats, culture, 3m	3m1_cohort1_dermal_fibroAligned.out.srt.bam	3m1_cohort1_dermal_fibroAligned.out.srt_counts_genes_mm9.txt	Bulk
+Fibroblasts	ear fibroblats, culture, 3m	3m2_cohort1_dermal_fibroAligned.out.srt.bam	3m2_cohort1_dermal_fibroAligned.out.srt_counts_genes_mm9.txt	Bulk
+Fibroblasts	ear fibroblats, culture, 3m	3m3_cohort4_dermal_fibroAligned.out.srt.bam	3m3_cohort4_dermal_fibroAligned.out.srt_counts_genes_mm9.txt	Bulk
+Fibroblasts	ear fibroblats, culture, 3m	3m4_cohort1_dermal_fibroAligned.out.srt.bam	3m4_cohort1_dermal_fibroAligned.out.srt_counts_genes_mm9.txt	Bulk
+Fibroblasts	ear fibroblats, culture, 3m	3m6_cohort4_dermal_fibroAligned.out.srt.bam	3m6_cohort4_dermal_fibroAligned.out.srt_counts_genes_mm9.txt	Bulk
+Fibroblasts	ear fibroblats, culture, 3m	3m7_cohort4_dermal_fibroAligned.out.srt.bam	3m7_cohort4_dermal_fibroAligned.out.srt_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888154_Skin_SCA1p_1	SRR2443114Aligned.out.bam	SRR2443114Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888154_Skin_SCA1p_1	SRR2443115Aligned.out.bam	SRR2443115Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888154_Skin_SCA1p_1	SRR2443116Aligned.out.bam	SRR2443116Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888154_Skin_SCA1p_1	SRR2443117Aligned.out.bam	SRR2443117Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888154_Skin_SCA1p_1	SRR2443118Aligned.out.bam	SRR2443118Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888155_Skin_SCA1p_2	SRR2443119Aligned.out.bam	SRR2443119Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888155_Skin_SCA1p_2	SRR2443120Aligned.out.bam	SRR2443120Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888155_Skin_SCA1p_2	SRR2443121Aligned.out.bam	SRR2443121Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888156_Skin_SCA1p_3	SRR2443122Aligned.out.bam	SRR2443122Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888156_Skin_SCA1p_3	SRR2443123Aligned.out.bam	SRR2443123Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888156_Skin_SCA1p_3	SRR2443124Aligned.out.bam	SRR2443124Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888156_Skin_SCA1p_3	SRR2443125Aligned.out.bam	SRR2443125Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888156_Skin_SCA1p_3	SRR2443126Aligned.out.bam	SRR2443126Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888157_Thymus_SCA1p_2	SRR2443127Aligned.out.bam	SRR2443127Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888157_Thymus_SCA1p_2	SRR2443128Aligned.out.bam	SRR2443128Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888157_Thymus_SCA1p_2	SRR2443129Aligned.out.bam	SRR2443129Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888158_Thymus_SCA1p_3	SRR2443130Aligned.out.bam	SRR2443130Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888158_Thymus_SCA1p_3	SRR2443131Aligned.out.bam	SRR2443131Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888158_Thymus_SCA1p_3	SRR2443132Aligned.out.bam	SRR2443132Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888159_Thymus_SCA1p_1-3	SRR2443133Aligned.out.bam	SRR2443133Aligned.out_counts_genes_mm9.txt	Bulk
+Fibroblasts	GSM1888159_Thymus_SCA1p_1-3	SRR2443134Aligned.out.bam	SRR2443134Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536401Aligned.out.bam	SRR1536401Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536402Aligned.out.bam	SRR1536402Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536403Aligned.out.bam	SRR1536403Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536404Aligned.out.bam	SRR1536404Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536405Aligned.out.bam	SRR1536405Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536406Aligned.out.bam	SRR1536406Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	Granulo_C57BL/6J__4 to 6 (week)_granulocyte_Gr1+, Mac1+, CD3-, CD4-, CD8-, IgM-, Ter119-__                      	ERR674984Aligned.out.bam	ERR674984Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	ImmGen RNAseq Neutrophils	SRR1976571Aligned.out.bam	SRR1976571Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	b05_Neutrophil1_Exp2 Neutrophils	SRR1653925Aligned.out.bam	SRR1653925Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	b07_Neutrophil3_Exp2 Neutrophils	SRR1653926Aligned.out.bam	SRR1653926Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	141 Srf WT, Mature Gr1 high, 7/4 high, SSC high neutrophils	SRR1171332Aligned.out.bam	SRR1171332Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	142 Srf WT, Mature Gr1 high, 7/4 high, SSC high neutrophils	SRR1171333Aligned.out.bam	SRR1171333Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	2276_1_WT_1 GSE55633 Neutrophils	SRR1184581Aligned.out.bam	SRR1184581Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	2276_2_WT_2 GSE55633 Neutrophils	SRR1184582Aligned.out.bam	SRR1184582Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	2276_3_WT_3 GSE55633 Neutrophils	SRR1184583Aligned.out.bam	SRR1184583Aligned.out_counts_genes_mm9.txt	Bulk
+Granulocytes	2276_5_WT_5  GSE55633 Neutrophils	SRR1184584Aligned.out.bam	SRR1184584Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	C57BL/6,1-2 months	SRR1769848Aligned.out.bam	SRR1769848Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	C57BL/6,1-2 months	SRR1769856Aligned.out.bam	SRR1769856Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	C57BL/6, post natal day 63, Axin2- mature hepatocytes 	SRR2017482Aligned.out.bam	SRR2017482Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	C57BL/6, post natal day 63, Axin2- mature hepatocytes 	SRR2017483Aligned.out.bam	SRR2017483Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	C57BL/6, post natal day 63, Axin2- mature hepatocytes 	SRR2017484Aligned.out.bam	SRR2017484Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	Primary mouse hepatocyte	SRR1286091Aligned.out.bam	SRR1286091Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	Primary mouse hepatocytes, gene expression profiling (RNA-seq, mRNA), 19h control treatment, biological replicate 1	SRR2040945Aligned.out.bam	SRR2040945Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	Primary mouse hepatocytes, gene expression profiling (RNA-seq, mRNA), 19h control treatment, biological replicate 2	SRR2040946Aligned.out.bam	SRR2040946Aligned.out_counts_genes_mm9.txt	Bulk
+Hepatocytes	Primary mouse hepatocytes, gene expression profiling (RNA-seq, mRNA), 19h control treatment, biological replicate 3	SRR2040947Aligned.out.bam	SRR2040947Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages	SRR1536397Aligned.out.bam	SRR1536397Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages	SRR1536398Aligned.out.bam	SRR1536398Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages	SRR1536399Aligned.out.bam	SRR1536399Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages	SRR1536400Aligned.out.bam	SRR1536400Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, RNA-Seq, Bone_marrow_derived_macrophages	SRR1634674Aligned.out.bam	SRR1634674Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, polyA RNA-Seq, Bone_marrow_derived_macrophages	SRR1634708Aligned.out.bam	SRR1634708Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	8 weeks, Bone_marrow_derived_macrophages	SRR496223Aligned.out.bam	SRR496223Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	8 weeks, Bone_marrow_derived_macrophages	SRR496224Aligned.out.bam	SRR496224Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL/6NJ, 4 to 6 week. bone marrow populations	ERR599391Aligned.out.bam	ERR599391Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	b04_Kupffer_Exp2, liver	SRR1653939Aligned.out.bam	SRR1653939Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	b15_Kupffer2_Exp2, liver	SRR1653940Aligned.out.bam	SRR1653940Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	ImmGen RNAseq, Peritoneal_macrophages	SRR1976597Aligned.out.bam	SRR1976597Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, RNA-Seq, peritoneal_thioglycolate-elicited_macrophages	SRR1634678Aligned.out.bam	SRR1634678Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, polyA RNA-Seq, peritoneal_thioglycolate-elicited_macrophages	SRR1634712Aligned.out.bam	SRR1634712Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, Ribozero RNA-Seq, Small_peritoneal_macrophages	SRR1634676Aligned.out.bam	SRR1634676Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, polyA RNA-Seq, Small_peritoneal_macrophages	SRR1634710Aligned.out.bam	SRR1634710Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, Ribozero RNA-Seq, Peritoneal_macrophages	SRR1634675Aligned.out.bam	SRR1634675Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	C57BL6/J, polyA RNA-Seq, Peritoneal_macrophages	SRR1634709Aligned.out.bam	SRR1634709Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	NOD/ShiLtJ, RNA-Seq , Peritoneal_macrophages	SRR1634740Aligned.out.bam	SRR1634740Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	SPRET/EiJ, RNA-Seq , Peritoneal_macrophages	SRR1634741Aligned.out.bam	SRR1634741Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	a06_peritoneum_Mac1_Exp1_m, Peritoneal_macrophages	SRR1653933Aligned.out.bam	SRR1653933Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	a06_peritoneum_Mac1_Exp1_m, Peritoneal_macrophages	SRR1653934Aligned.out.bam	SRR1653934Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	a07_peritoneum_Mac2_Exp1_m, Peritoneal_macrophages	SRR1653935Aligned.out.bam	SRR1653935Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	a07_peritoneum_Mac2_Exp1_m, Peritoneal_macrophages	SRR1653936Aligned.out.bam	SRR1653936Aligned.out_counts_genes_mm9.txt	Bulk
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189315Aligned.out.bam	GSM2189315Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189344Aligned.out.bam	GSM2189344Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189349Aligned.out.bam	GSM2189349Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189360Aligned.out.bam	GSM2189360Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189361Aligned.out.bam	GSM2189361Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189362Aligned.out.bam	GSM2189362Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189363Aligned.out.bam	GSM2189363Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189364Aligned.out.bam	GSM2189364Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189365Aligned.out.bam	GSM2189365Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189366Aligned.out.bam	GSM2189366Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189368Aligned.out.bam	GSM2189368Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189369Aligned.out.bam	GSM2189369Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189370Aligned.out.bam	GSM2189370Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189371Aligned.out.bam	GSM2189371Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189372Aligned.out.bam	GSM2189372Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189380Aligned.out.bam	GSM2189380Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189381Aligned.out.bam	GSM2189381Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189382Aligned.out.bam	GSM2189382Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189383Aligned.out.bam	GSM2189383Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189384Aligned.out.bam	GSM2189384Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189385Aligned.out.bam	GSM2189385Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189386Aligned.out.bam	GSM2189386Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189388Aligned.out.bam	GSM2189388Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189391Aligned.out.bam	GSM2189391Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189395Aligned.out.bam	GSM2189395Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189396Aligned.out.bam	GSM2189396Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189401Aligned.out.bam	GSM2189401Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189402Aligned.out.bam	GSM2189402Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189403Aligned.out.bam	GSM2189403Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189405Aligned.out.bam	GSM2189405Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189406Aligned.out.bam	GSM2189406Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189407Aligned.out.bam	GSM2189407Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189408Aligned.out.bam	GSM2189408Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189409Aligned.out.bam	GSM2189409Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189410Aligned.out.bam	GSM2189410Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189411Aligned.out.bam	GSM2189411Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189421Aligned.out.bam	GSM2189421Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189422Aligned.out.bam	GSM2189422Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189423Aligned.out.bam	GSM2189423Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189424Aligned.out.bam	GSM2189424Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189425Aligned.out.bam	GSM2189425Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189426Aligned.out.bam	GSM2189426Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189427Aligned.out.bam	GSM2189427Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189428Aligned.out.bam	GSM2189428Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189429Aligned.out.bam	GSM2189429Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189430Aligned.out.bam	GSM2189430Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189431Aligned.out.bam	GSM2189431Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189432Aligned.out.bam	GSM2189432Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189433Aligned.out.bam	GSM2189433Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189434Aligned.out.bam	GSM2189434Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189435Aligned.out.bam	GSM2189435Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189451Aligned.out.bam	GSM2189451Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189453Aligned.out.bam	GSM2189453Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189454Aligned.out.bam	GSM2189454Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189455Aligned.out.bam	GSM2189455Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189456Aligned.out.bam	GSM2189456Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189457Aligned.out.bam	GSM2189457Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189458Aligned.out.bam	GSM2189458Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189518Aligned.out.bam	GSM2189518Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189527Aligned.out.bam	GSM2189527Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189528Aligned.out.bam	GSM2189528Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189537Aligned.out.bam	GSM2189537Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189538Aligned.out.bam	GSM2189538Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189557Aligned.out.bam	GSM2189557Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189570Aligned.out.bam	GSM2189570Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189572Aligned.out.bam	GSM2189572Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189574Aligned.out.bam	GSM2189574Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189576Aligned.out.bam	GSM2189576Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189581Aligned.out.bam	GSM2189581Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189646Aligned.out.bam	GSM2189646Aligned.out_counts_genes_mm9.txt	Single
+Macrophages	Steve_quake Striatum scRNAseq	GSM2189665Aligned.out.bam	GSM2189665Aligned.out_counts_genes_mm9.txt	Single
+Microglia	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033793Aligned.out.bam	SRR1033793Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033794Aligned.out.bam	SRR1033794Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	NOD/ShiLtJ, RNA-Seq 	SRR1634672Aligned.out.bam	SRR1634672Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	SPRET/EiJ, RNA-Seq 	SRR1634673Aligned.out.bam	SRR1634673Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	C57BL6/J, Ribozero RNA-Seq	SRR1634677Aligned.out.bam	SRR1634677Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	C57BL6/J, polyA RNA-Seq	SRR1634711Aligned.out.bam	SRR1634711Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	C57BL6/J, RNA-Seq 	SRR1634721Aligned.out.bam	SRR1634721Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 13months	SRR2961935Aligned.out.bam	SRR2961935Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 7months	SRR2961945Aligned.out.bam	SRR2961945Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 13months	SRR2961950Aligned.out.bam	SRR2961950Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 7months	SRR2961959Aligned.out.bam	SRR2961959Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Male 13months	SRR2961967Aligned.out.bam	SRR2961967Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 13months	SRR2961975Aligned.out.bam	SRR2961975Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 7months	SRR2961978Aligned.out.bam	SRR2961978Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 13months	SRR2961982Aligned.out.bam	SRR2961982Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 7months	SRR2961986Aligned.out.bam	SRR2961986Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Female 7months	SRR2961987Aligned.out.bam	SRR2961987Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	a01_brain_microglia1_Exp1_m	SRR1653929Aligned.out.bam	SRR1653929Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	a01_brain_microglia1_Exp1_m	SRR1653930Aligned.out.bam	SRR1653930Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	a02_brain_microglia2_Exp1_m	SRR1653931Aligned.out.bam	SRR1653931Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	a02_brain_microglia2_Exp1_m	SRR1653932Aligned.out.bam	SRR1653932Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	LCM_GFP-S1-22689-1, Microglia	SRR1068302Aligned.out.bam	SRR1068302Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	LCM_GFP-S2-22835-3, Microglia	SRR1068303Aligned.out.bam	SRR1068303Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	LCM_GFP-S3-22690-2, Microglia	SRR1068304Aligned.out.bam	SRR1068304Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	LCM_GFP-S4-22691-8, Microglia	SRR1068305Aligned.out.bam	SRR1068305Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	FACS_WT-S5-1135739, Microglia	SRR1068306Aligned.out.bam	SRR1068306Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	FACS_WT-S6--1135740, Microglia	SRR1068308Aligned.out.bam	SRR1068308Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	FACS_WT-S7-1135741, Microglia	SRR1068310Aligned.out.bam	SRR1068310Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	FACS_GFP-S8-1135742, Microglia	SRR1068312Aligned.out.bam	SRR1068312Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	FACS_GFP-S9-1135743, Microglia	SRR1068313Aligned.out.bam	SRR1068313Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	FACS_GFP-S10-1135744, Microglia	SRR1068314Aligned.out.bam	SRR1068314Aligned.out_counts_genes_mm9.txt	Bulk
+Microglia	Steve_quake Striatum scRNAseq	GSM2189232Aligned.out.bam	GSM2189232Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189310Aligned.out.bam	GSM2189310Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189311Aligned.out.bam	GSM2189311Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189312Aligned.out.bam	GSM2189312Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189321Aligned.out.bam	GSM2189321Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189326Aligned.out.bam	GSM2189326Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189327Aligned.out.bam	GSM2189327Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189328Aligned.out.bam	GSM2189328Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189329Aligned.out.bam	GSM2189329Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189332Aligned.out.bam	GSM2189332Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189333Aligned.out.bam	GSM2189333Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189334Aligned.out.bam	GSM2189334Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189335Aligned.out.bam	GSM2189335Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189337Aligned.out.bam	GSM2189337Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189339Aligned.out.bam	GSM2189339Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189340Aligned.out.bam	GSM2189340Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189342Aligned.out.bam	GSM2189342Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189389Aligned.out.bam	GSM2189389Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189478Aligned.out.bam	GSM2189478Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189494Aligned.out.bam	GSM2189494Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189495Aligned.out.bam	GSM2189495Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189504Aligned.out.bam	GSM2189504Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189505Aligned.out.bam	GSM2189505Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189511Aligned.out.bam	GSM2189511Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189515Aligned.out.bam	GSM2189515Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189516Aligned.out.bam	GSM2189516Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189517Aligned.out.bam	GSM2189517Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189522Aligned.out.bam	GSM2189522Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189523Aligned.out.bam	GSM2189523Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189524Aligned.out.bam	GSM2189524Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189525Aligned.out.bam	GSM2189525Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189530Aligned.out.bam	GSM2189530Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189532Aligned.out.bam	GSM2189532Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189539Aligned.out.bam	GSM2189539Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189552Aligned.out.bam	GSM2189552Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189554Aligned.out.bam	GSM2189554Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189556Aligned.out.bam	GSM2189556Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189568Aligned.out.bam	GSM2189568Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189571Aligned.out.bam	GSM2189571Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189573Aligned.out.bam	GSM2189573Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189575Aligned.out.bam	GSM2189575Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189579Aligned.out.bam	GSM2189579Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189582Aligned.out.bam	GSM2189582Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189583Aligned.out.bam	GSM2189583Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189586Aligned.out.bam	GSM2189586Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189588Aligned.out.bam	GSM2189588Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189600Aligned.out.bam	GSM2189600Aligned.out_counts_genes_mm9.txt	Single
+Microglia	Steve_quake Striatum scRNAseq	GSM2189666Aligned.out.bam	GSM2189666Aligned.out_counts_genes_mm9.txt	Single
+Monocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536407Aligned.out.bam	SRR1536407Aligned.out_counts_genes_mm9.txt	Bulk
+Monocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536408Aligned.out.bam	SRR1536408Aligned.out_counts_genes_mm9.txt	Bulk
+Monocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536409Aligned.out.bam	SRR1536409Aligned.out_counts_genes_mm9.txt	Bulk
+Monocytes	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536410Aligned.out.bam	SRR1536410Aligned.out_counts_genes_mm9.txt	Bulk
+Monocytes	b10_Monocyte1_Exp2	SRR1653927Aligned.out.bam	SRR1653927Aligned.out_counts_genes_mm9.txt	Bulk
+Monocytes	b11_Monocyte2_Exp2	SRR1653928Aligned.out.bam	SRR1653928Aligned.out_counts_genes_mm9.txt	Bulk
+Monocytes	Mono_C57BL/6J__4 to 6 (week)_monocyte_Gr1 medium, Mac1+, CFMS+, CD3-, CD4-, CD8-, IgM-, Ter119-__          	ERR674981Aligned.out.bam	ERR674981Aligned.out_counts_genes_mm9.txt	Bulk
+Neuroblasts	S18 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572715Aligned.out.bam	SRR1572715Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S19 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572716Aligned.out.bam	SRR1572716Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S20 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572717Aligned.out.bam	SRR1572717Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S21 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572718Aligned.out.bam	SRR1572718Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S22 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572719Aligned.out.bam	SRR1572719Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S23 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572720Aligned.out.bam	SRR1572720Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S24 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572721Aligned.out.bam	SRR1572721Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S25 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572722Aligned.out.bam	SRR1572722Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S26 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572723Aligned.out.bam	SRR1572723Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S27 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572724Aligned.out.bam	SRR1572724Aligned.out_counts_genes_mm9.txt	Single
+Neuroblasts	S28 CD133-/Dlx2+, ABI SOliD sequencing	SRR1572725Aligned.out.bam	SRR1572725Aligned.out_counts_genes_mm9.txt	Single
+Neurons	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033785Aligned.out.bam	SRR1033785Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	P7 Aldh1l1-EGFP transgenic mice of both genders	SRR1033786Aligned.out.bam	SRR1033786Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 13months	SRR2961933Aligned.out.bam	SRR2961933Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Male 13months	SRR2961941Aligned.out.bam	SRR2961941Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961949Aligned.out.bam	SRR2961949Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961954Aligned.out.bam	SRR2961954Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961956Aligned.out.bam	SRR2961956Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 13months	SRR2961969Aligned.out.bam	SRR2961969Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 13months	SRR2961972Aligned.out.bam	SRR2961972Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961974Aligned.out.bam	SRR2961974Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961983Aligned.out.bam	SRR2961983Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961984Aligned.out.bam	SRR2961984Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 13months	SRR2961988Aligned.out.bam	SRR2961988Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Female 7months	SRR2961991Aligned.out.bam	SRR2961991Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	C57BL6J/129, 8-11 weeks, Parvalbumin_inhibitory_neurons	SRR1647856Aligned.out.bam	SRR1647856Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	C57BL6J/129, 8-11 weeks, Parvalbumin_inhibitory_neurons	SRR1647857Aligned.out.bam	SRR1647857Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	C57BL6J/129, 8-11 weeks, Vasoactive_intestinal_peptide_inhibitory_neurons	SRR1647858Aligned.out.bam	SRR1647858Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	C57BL6J/129, 8-11 weeks, Vasoactive_intestinal_peptide_inhibitory_neurons	SRR1647859Aligned.out.bam	SRR1647859Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Lumbar segment spinal cord, Ventral horn motor neurons,  Postnatal day 1	SRR1016945Aligned.out.bam	SRR1016945Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	Lumbar segment spinal cord, Ventral horn motor neurons,  Postnatal day 1	SRR1016946Aligned.out.bam	SRR1016946Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233077Aligned.out.bam	SRR1233077Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233078Aligned.out.bam	SRR1233078Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233079Aligned.out.bam	SRR1233079Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233080Aligned.out.bam	SRR1233080Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233081Aligned.out.bam	SRR1233081Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233082Aligned.out.bam	SRR1233082Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233083Aligned.out.bam	SRR1233083Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233084Aligned.out.bam	SRR1233084Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233085Aligned.out.bam	SRR1233085Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233086Aligned.out.bam	SRR1233086Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233087Aligned.out.bam	SRR1233087Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233088Aligned.out.bam	SRR1233088Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233089Aligned.out.bam	SRR1233089Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233090Aligned.out.bam	SRR1233090Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233091Aligned.out.bam	SRR1233091Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233092Aligned.out.bam	SRR1233092Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233093Aligned.out.bam	SRR1233093Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233094Aligned.out.bam	SRR1233094Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233095Aligned.out.bam	SRR1233095Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233096Aligned.out.bam	SRR1233096Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233097Aligned.out.bam	SRR1233097Aligned.out_counts_genes_mm9.txt	Single
+Neurons	e-PET-YFP, Dorsal Raphe; 5-HT neuron post natal 60	SRR1233098Aligned.out.bam	SRR1233098Aligned.out_counts_genes_mm9.txt	Single
+Neurons	d7, immature, cerebellar cortical neurons	SRR1557080Aligned.out.bam	SRR1557080Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	d7, immature, cerebellar cortical neurons	SRR1557081Aligned.out.bam	SRR1557081Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	d7, immature, cerebellar cortical neurons	SRR1557082Aligned.out.bam	SRR1557082Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	mOR-EG GFP, single Adult Cell, olfactory sensory neuron	ERR647660Aligned.out.bam	ERR647660Aligned.out_counts_genes_mm9.txt	Single
+Neurons	mOR-EG GFP, single Adult Cell, olfactory sensory neuron	ERR647661Aligned.out.bam	ERR647661Aligned.out_counts_genes_mm9.txt	Single
+Neurons	mOR-EG GFP, single Adult Cell, olfactory sensory neuron	ERR647663Aligned.out.bam	ERR647663Aligned.out_counts_genes_mm9.txt	Single
+Neurons	mOR-EG GFP, single Adult Cell, olfactory sensory neuron	ERR647666Aligned.out.bam	ERR647666Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL6J/129, 8-11 weeks, excitatory_pyramidal_neurons	SRR1647854Aligned.out.bam	SRR1647854Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	C57BL6J/129, 8-11 weeks, excitatory_pyramidal_neurons	SRR1647855Aligned.out.bam	SRR1647855Aligned.out_counts_genes_mm9.txt	Bulk
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233058Aligned.out.bam	SRR1233058Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233059Aligned.out.bam	SRR1233059Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233060Aligned.out.bam	SRR1233060Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233061Aligned.out.bam	SRR1233061Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233062Aligned.out.bam	SRR1233062Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233063Aligned.out.bam	SRR1233063Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233064Aligned.out.bam	SRR1233064Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233065Aligned.out.bam	SRR1233065Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233066Aligned.out.bam	SRR1233066Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233067Aligned.out.bam	SRR1233067Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233068Aligned.out.bam	SRR1233068Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233069Aligned.out.bam	SRR1233069Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233070Aligned.out.bam	SRR1233070Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233071Aligned.out.bam	SRR1233071Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233072Aligned.out.bam	SRR1233072Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233073Aligned.out.bam	SRR1233073Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233074Aligned.out.bam	SRR1233074Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233075Aligned.out.bam	SRR1233075Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Cortex Pyramidal neuron E18	SRR1233076Aligned.out.bam	SRR1233076Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233099Aligned.out.bam	SRR1233099Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233100Aligned.out.bam	SRR1233100Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233101Aligned.out.bam	SRR1233101Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233102Aligned.out.bam	SRR1233102Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233103Aligned.out.bam	SRR1233103Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233104Aligned.out.bam	SRR1233104Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233105Aligned.out.bam	SRR1233105Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233106Aligned.out.bam	SRR1233106Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233107Aligned.out.bam	SRR1233107Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233108Aligned.out.bam	SRR1233108Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233109Aligned.out.bam	SRR1233109Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233110Aligned.out.bam	SRR1233110Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233111Aligned.out.bam	SRR1233111Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233112Aligned.out.bam	SRR1233112Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233113Aligned.out.bam	SRR1233113Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233114Aligned.out.bam	SRR1233114Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233115Aligned.out.bam	SRR1233115Aligned.out_counts_genes_mm9.txt	Single
+Neurons	C57BL/6, Hippocampus pyramidal neuron E18	SRR1233116Aligned.out.bam	SRR1233116Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2188962Aligned.out.bam	GSM2188962Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2188963Aligned.out.bam	GSM2188963Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2188964Aligned.out.bam	GSM2188964Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2188965Aligned.out.bam	GSM2188965Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2188966Aligned.out.bam	GSM2188966Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189006Aligned.out.bam	GSM2189006Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189007Aligned.out.bam	GSM2189007Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189008Aligned.out.bam	GSM2189008Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189009Aligned.out.bam	GSM2189009Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189010Aligned.out.bam	GSM2189010Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189011Aligned.out.bam	GSM2189011Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189012Aligned.out.bam	GSM2189012Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189013Aligned.out.bam	GSM2189013Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189014Aligned.out.bam	GSM2189014Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189015Aligned.out.bam	GSM2189015Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189016Aligned.out.bam	GSM2189016Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189017Aligned.out.bam	GSM2189017Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189018Aligned.out.bam	GSM2189018Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189019Aligned.out.bam	GSM2189019Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189020Aligned.out.bam	GSM2189020Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189021Aligned.out.bam	GSM2189021Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189022Aligned.out.bam	GSM2189022Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189023Aligned.out.bam	GSM2189023Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189024Aligned.out.bam	GSM2189024Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189025Aligned.out.bam	GSM2189025Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189026Aligned.out.bam	GSM2189026Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189027Aligned.out.bam	GSM2189027Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189028Aligned.out.bam	GSM2189028Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189029Aligned.out.bam	GSM2189029Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189039Aligned.out.bam	GSM2189039Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189040Aligned.out.bam	GSM2189040Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189041Aligned.out.bam	GSM2189041Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189042Aligned.out.bam	GSM2189042Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189043Aligned.out.bam	GSM2189043Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189044Aligned.out.bam	GSM2189044Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189045Aligned.out.bam	GSM2189045Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189046Aligned.out.bam	GSM2189046Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189047Aligned.out.bam	GSM2189047Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189048Aligned.out.bam	GSM2189048Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189049Aligned.out.bam	GSM2189049Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189050Aligned.out.bam	GSM2189050Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189051Aligned.out.bam	GSM2189051Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189052Aligned.out.bam	GSM2189052Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189053Aligned.out.bam	GSM2189053Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189054Aligned.out.bam	GSM2189054Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189055Aligned.out.bam	GSM2189055Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189056Aligned.out.bam	GSM2189056Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189057Aligned.out.bam	GSM2189057Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189058Aligned.out.bam	GSM2189058Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189059Aligned.out.bam	GSM2189059Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189060Aligned.out.bam	GSM2189060Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189061Aligned.out.bam	GSM2189061Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189062Aligned.out.bam	GSM2189062Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189063Aligned.out.bam	GSM2189063Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189064Aligned.out.bam	GSM2189064Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189065Aligned.out.bam	GSM2189065Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189066Aligned.out.bam	GSM2189066Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189067Aligned.out.bam	GSM2189067Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189068Aligned.out.bam	GSM2189068Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189069Aligned.out.bam	GSM2189069Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189070Aligned.out.bam	GSM2189070Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189071Aligned.out.bam	GSM2189071Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189072Aligned.out.bam	GSM2189072Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189073Aligned.out.bam	GSM2189073Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189074Aligned.out.bam	GSM2189074Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189075Aligned.out.bam	GSM2189075Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189076Aligned.out.bam	GSM2189076Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189077Aligned.out.bam	GSM2189077Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189078Aligned.out.bam	GSM2189078Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189079Aligned.out.bam	GSM2189079Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189080Aligned.out.bam	GSM2189080Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189081Aligned.out.bam	GSM2189081Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189082Aligned.out.bam	GSM2189082Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189083Aligned.out.bam	GSM2189083Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189084Aligned.out.bam	GSM2189084Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189085Aligned.out.bam	GSM2189085Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189086Aligned.out.bam	GSM2189086Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189087Aligned.out.bam	GSM2189087Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189088Aligned.out.bam	GSM2189088Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189092Aligned.out.bam	GSM2189092Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189093Aligned.out.bam	GSM2189093Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189094Aligned.out.bam	GSM2189094Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189095Aligned.out.bam	GSM2189095Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189096Aligned.out.bam	GSM2189096Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189097Aligned.out.bam	GSM2189097Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189098Aligned.out.bam	GSM2189098Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189099Aligned.out.bam	GSM2189099Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189100Aligned.out.bam	GSM2189100Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189101Aligned.out.bam	GSM2189101Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189102Aligned.out.bam	GSM2189102Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189103Aligned.out.bam	GSM2189103Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189104Aligned.out.bam	GSM2189104Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189105Aligned.out.bam	GSM2189105Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189106Aligned.out.bam	GSM2189106Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189107Aligned.out.bam	GSM2189107Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189108Aligned.out.bam	GSM2189108Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189109Aligned.out.bam	GSM2189109Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189110Aligned.out.bam	GSM2189110Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189111Aligned.out.bam	GSM2189111Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189112Aligned.out.bam	GSM2189112Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189113Aligned.out.bam	GSM2189113Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189114Aligned.out.bam	GSM2189114Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189115Aligned.out.bam	GSM2189115Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189116Aligned.out.bam	GSM2189116Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189117Aligned.out.bam	GSM2189117Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189118Aligned.out.bam	GSM2189118Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189119Aligned.out.bam	GSM2189119Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189120Aligned.out.bam	GSM2189120Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189121Aligned.out.bam	GSM2189121Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189122Aligned.out.bam	GSM2189122Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189123Aligned.out.bam	GSM2189123Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189124Aligned.out.bam	GSM2189124Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189125Aligned.out.bam	GSM2189125Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189126Aligned.out.bam	GSM2189126Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189127Aligned.out.bam	GSM2189127Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189128Aligned.out.bam	GSM2189128Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189129Aligned.out.bam	GSM2189129Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189130Aligned.out.bam	GSM2189130Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189131Aligned.out.bam	GSM2189131Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189132Aligned.out.bam	GSM2189132Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189133Aligned.out.bam	GSM2189133Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189134Aligned.out.bam	GSM2189134Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189135Aligned.out.bam	GSM2189135Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189136Aligned.out.bam	GSM2189136Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189137Aligned.out.bam	GSM2189137Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189138Aligned.out.bam	GSM2189138Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189139Aligned.out.bam	GSM2189139Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189140Aligned.out.bam	GSM2189140Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189141Aligned.out.bam	GSM2189141Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189142Aligned.out.bam	GSM2189142Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189143Aligned.out.bam	GSM2189143Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189144Aligned.out.bam	GSM2189144Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189145Aligned.out.bam	GSM2189145Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189146Aligned.out.bam	GSM2189146Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189147Aligned.out.bam	GSM2189147Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189148Aligned.out.bam	GSM2189148Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189149Aligned.out.bam	GSM2189149Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189150Aligned.out.bam	GSM2189150Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189151Aligned.out.bam	GSM2189151Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189152Aligned.out.bam	GSM2189152Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189153Aligned.out.bam	GSM2189153Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189154Aligned.out.bam	GSM2189154Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189155Aligned.out.bam	GSM2189155Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189156Aligned.out.bam	GSM2189156Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189157Aligned.out.bam	GSM2189157Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189158Aligned.out.bam	GSM2189158Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189159Aligned.out.bam	GSM2189159Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189160Aligned.out.bam	GSM2189160Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189161Aligned.out.bam	GSM2189161Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189162Aligned.out.bam	GSM2189162Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189163Aligned.out.bam	GSM2189163Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189164Aligned.out.bam	GSM2189164Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189165Aligned.out.bam	GSM2189165Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189166Aligned.out.bam	GSM2189166Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189167Aligned.out.bam	GSM2189167Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189168Aligned.out.bam	GSM2189168Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189169Aligned.out.bam	GSM2189169Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189170Aligned.out.bam	GSM2189170Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189171Aligned.out.bam	GSM2189171Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189172Aligned.out.bam	GSM2189172Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189173Aligned.out.bam	GSM2189173Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189174Aligned.out.bam	GSM2189174Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189175Aligned.out.bam	GSM2189175Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189176Aligned.out.bam	GSM2189176Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189177Aligned.out.bam	GSM2189177Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189178Aligned.out.bam	GSM2189178Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189179Aligned.out.bam	GSM2189179Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189180Aligned.out.bam	GSM2189180Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189181Aligned.out.bam	GSM2189181Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189182Aligned.out.bam	GSM2189182Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189183Aligned.out.bam	GSM2189183Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189184Aligned.out.bam	GSM2189184Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189185Aligned.out.bam	GSM2189185Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189186Aligned.out.bam	GSM2189186Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189187Aligned.out.bam	GSM2189187Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189188Aligned.out.bam	GSM2189188Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189189Aligned.out.bam	GSM2189189Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189190Aligned.out.bam	GSM2189190Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189191Aligned.out.bam	GSM2189191Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189192Aligned.out.bam	GSM2189192Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189193Aligned.out.bam	GSM2189193Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189194Aligned.out.bam	GSM2189194Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189195Aligned.out.bam	GSM2189195Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189196Aligned.out.bam	GSM2189196Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189197Aligned.out.bam	GSM2189197Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189198Aligned.out.bam	GSM2189198Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189199Aligned.out.bam	GSM2189199Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189200Aligned.out.bam	GSM2189200Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189201Aligned.out.bam	GSM2189201Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189202Aligned.out.bam	GSM2189202Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189203Aligned.out.bam	GSM2189203Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189204Aligned.out.bam	GSM2189204Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189205Aligned.out.bam	GSM2189205Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189206Aligned.out.bam	GSM2189206Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189207Aligned.out.bam	GSM2189207Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189208Aligned.out.bam	GSM2189208Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189209Aligned.out.bam	GSM2189209Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189210Aligned.out.bam	GSM2189210Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189211Aligned.out.bam	GSM2189211Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189212Aligned.out.bam	GSM2189212Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189213Aligned.out.bam	GSM2189213Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189214Aligned.out.bam	GSM2189214Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189215Aligned.out.bam	GSM2189215Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189216Aligned.out.bam	GSM2189216Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189217Aligned.out.bam	GSM2189217Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189218Aligned.out.bam	GSM2189218Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189219Aligned.out.bam	GSM2189219Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189220Aligned.out.bam	GSM2189220Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189221Aligned.out.bam	GSM2189221Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189222Aligned.out.bam	GSM2189222Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189223Aligned.out.bam	GSM2189223Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189224Aligned.out.bam	GSM2189224Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189225Aligned.out.bam	GSM2189225Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189226Aligned.out.bam	GSM2189226Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189227Aligned.out.bam	GSM2189227Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189228Aligned.out.bam	GSM2189228Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189229Aligned.out.bam	GSM2189229Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189230Aligned.out.bam	GSM2189230Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189231Aligned.out.bam	GSM2189231Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189235Aligned.out.bam	GSM2189235Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189236Aligned.out.bam	GSM2189236Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189237Aligned.out.bam	GSM2189237Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189238Aligned.out.bam	GSM2189238Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189239Aligned.out.bam	GSM2189239Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189240Aligned.out.bam	GSM2189240Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189241Aligned.out.bam	GSM2189241Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189242Aligned.out.bam	GSM2189242Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189243Aligned.out.bam	GSM2189243Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189244Aligned.out.bam	GSM2189244Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189245Aligned.out.bam	GSM2189245Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189246Aligned.out.bam	GSM2189246Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189247Aligned.out.bam	GSM2189247Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189248Aligned.out.bam	GSM2189248Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189249Aligned.out.bam	GSM2189249Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189250Aligned.out.bam	GSM2189250Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189251Aligned.out.bam	GSM2189251Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189252Aligned.out.bam	GSM2189252Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189253Aligned.out.bam	GSM2189253Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189254Aligned.out.bam	GSM2189254Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189255Aligned.out.bam	GSM2189255Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189256Aligned.out.bam	GSM2189256Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189257Aligned.out.bam	GSM2189257Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189258Aligned.out.bam	GSM2189258Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189259Aligned.out.bam	GSM2189259Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189260Aligned.out.bam	GSM2189260Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189261Aligned.out.bam	GSM2189261Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189262Aligned.out.bam	GSM2189262Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189263Aligned.out.bam	GSM2189263Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189264Aligned.out.bam	GSM2189264Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189265Aligned.out.bam	GSM2189265Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189266Aligned.out.bam	GSM2189266Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189267Aligned.out.bam	GSM2189267Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189268Aligned.out.bam	GSM2189268Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189269Aligned.out.bam	GSM2189269Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189270Aligned.out.bam	GSM2189270Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189271Aligned.out.bam	GSM2189271Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189272Aligned.out.bam	GSM2189272Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189273Aligned.out.bam	GSM2189273Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189274Aligned.out.bam	GSM2189274Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189275Aligned.out.bam	GSM2189275Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189276Aligned.out.bam	GSM2189276Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189277Aligned.out.bam	GSM2189277Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189278Aligned.out.bam	GSM2189278Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189279Aligned.out.bam	GSM2189279Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189280Aligned.out.bam	GSM2189280Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189281Aligned.out.bam	GSM2189281Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189282Aligned.out.bam	GSM2189282Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189283Aligned.out.bam	GSM2189283Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189284Aligned.out.bam	GSM2189284Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189285Aligned.out.bam	GSM2189285Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189286Aligned.out.bam	GSM2189286Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189287Aligned.out.bam	GSM2189287Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189288Aligned.out.bam	GSM2189288Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189289Aligned.out.bam	GSM2189289Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189290Aligned.out.bam	GSM2189290Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189291Aligned.out.bam	GSM2189291Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189292Aligned.out.bam	GSM2189292Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189293Aligned.out.bam	GSM2189293Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189294Aligned.out.bam	GSM2189294Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189295Aligned.out.bam	GSM2189295Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189296Aligned.out.bam	GSM2189296Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189297Aligned.out.bam	GSM2189297Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189298Aligned.out.bam	GSM2189298Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189299Aligned.out.bam	GSM2189299Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189300Aligned.out.bam	GSM2189300Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189301Aligned.out.bam	GSM2189301Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189302Aligned.out.bam	GSM2189302Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189303Aligned.out.bam	GSM2189303Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189304Aligned.out.bam	GSM2189304Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189305Aligned.out.bam	GSM2189305Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189306Aligned.out.bam	GSM2189306Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189307Aligned.out.bam	GSM2189307Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189308Aligned.out.bam	GSM2189308Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189309Aligned.out.bam	GSM2189309Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189348Aligned.out.bam	GSM2189348Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189477Aligned.out.bam	GSM2189477Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189485Aligned.out.bam	GSM2189485Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189491Aligned.out.bam	GSM2189491Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189563Aligned.out.bam	GSM2189563Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189564Aligned.out.bam	GSM2189564Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189565Aligned.out.bam	GSM2189565Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189566Aligned.out.bam	GSM2189566Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189606Aligned.out.bam	GSM2189606Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189607Aligned.out.bam	GSM2189607Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189608Aligned.out.bam	GSM2189608Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189609Aligned.out.bam	GSM2189609Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189610Aligned.out.bam	GSM2189610Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189611Aligned.out.bam	GSM2189611Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189612Aligned.out.bam	GSM2189612Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189613Aligned.out.bam	GSM2189613Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189614Aligned.out.bam	GSM2189614Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189615Aligned.out.bam	GSM2189615Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189616Aligned.out.bam	GSM2189616Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189617Aligned.out.bam	GSM2189617Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189618Aligned.out.bam	GSM2189618Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189619Aligned.out.bam	GSM2189619Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189620Aligned.out.bam	GSM2189620Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189621Aligned.out.bam	GSM2189621Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189622Aligned.out.bam	GSM2189622Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189623Aligned.out.bam	GSM2189623Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189624Aligned.out.bam	GSM2189624Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189625Aligned.out.bam	GSM2189625Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189626Aligned.out.bam	GSM2189626Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189627Aligned.out.bam	GSM2189627Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189628Aligned.out.bam	GSM2189628Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189629Aligned.out.bam	GSM2189629Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189630Aligned.out.bam	GSM2189630Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189631Aligned.out.bam	GSM2189631Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189632Aligned.out.bam	GSM2189632Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189633Aligned.out.bam	GSM2189633Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189634Aligned.out.bam	GSM2189634Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189635Aligned.out.bam	GSM2189635Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189642Aligned.out.bam	GSM2189642Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189645Aligned.out.bam	GSM2189645Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189667Aligned.out.bam	GSM2189667Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189668Aligned.out.bam	GSM2189668Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189669Aligned.out.bam	GSM2189669Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189670Aligned.out.bam	GSM2189670Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189671Aligned.out.bam	GSM2189671Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189672Aligned.out.bam	GSM2189672Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189673Aligned.out.bam	GSM2189673Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189674Aligned.out.bam	GSM2189674Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189675Aligned.out.bam	GSM2189675Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189676Aligned.out.bam	GSM2189676Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189677Aligned.out.bam	GSM2189677Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189678Aligned.out.bam	GSM2189678Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189679Aligned.out.bam	GSM2189679Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189680Aligned.out.bam	GSM2189680Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189681Aligned.out.bam	GSM2189681Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189682Aligned.out.bam	GSM2189682Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189683Aligned.out.bam	GSM2189683Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189684Aligned.out.bam	GSM2189684Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189685Aligned.out.bam	GSM2189685Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189686Aligned.out.bam	GSM2189686Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189687Aligned.out.bam	GSM2189687Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189688Aligned.out.bam	GSM2189688Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189689Aligned.out.bam	GSM2189689Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189690Aligned.out.bam	GSM2189690Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189691Aligned.out.bam	GSM2189691Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189692Aligned.out.bam	GSM2189692Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189693Aligned.out.bam	GSM2189693Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189694Aligned.out.bam	GSM2189694Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189695Aligned.out.bam	GSM2189695Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189696Aligned.out.bam	GSM2189696Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189697Aligned.out.bam	GSM2189697Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189698Aligned.out.bam	GSM2189698Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189699Aligned.out.bam	GSM2189699Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189700Aligned.out.bam	GSM2189700Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189701Aligned.out.bam	GSM2189701Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189702Aligned.out.bam	GSM2189702Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189703Aligned.out.bam	GSM2189703Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189704Aligned.out.bam	GSM2189704Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189705Aligned.out.bam	GSM2189705Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189706Aligned.out.bam	GSM2189706Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189707Aligned.out.bam	GSM2189707Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189708Aligned.out.bam	GSM2189708Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189709Aligned.out.bam	GSM2189709Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189710Aligned.out.bam	GSM2189710Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189711Aligned.out.bam	GSM2189711Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189712Aligned.out.bam	GSM2189712Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189713Aligned.out.bam	GSM2189713Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189714Aligned.out.bam	GSM2189714Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189715Aligned.out.bam	GSM2189715Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189716Aligned.out.bam	GSM2189716Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189717Aligned.out.bam	GSM2189717Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189718Aligned.out.bam	GSM2189718Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189719Aligned.out.bam	GSM2189719Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189720Aligned.out.bam	GSM2189720Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189721Aligned.out.bam	GSM2189721Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189722Aligned.out.bam	GSM2189722Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189723Aligned.out.bam	GSM2189723Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189724Aligned.out.bam	GSM2189724Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189725Aligned.out.bam	GSM2189725Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189726Aligned.out.bam	GSM2189726Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189727Aligned.out.bam	GSM2189727Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189728Aligned.out.bam	GSM2189728Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189729Aligned.out.bam	GSM2189729Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189730Aligned.out.bam	GSM2189730Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189731Aligned.out.bam	GSM2189731Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189732Aligned.out.bam	GSM2189732Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189733Aligned.out.bam	GSM2189733Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189734Aligned.out.bam	GSM2189734Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189735Aligned.out.bam	GSM2189735Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189736Aligned.out.bam	GSM2189736Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189737Aligned.out.bam	GSM2189737Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189738Aligned.out.bam	GSM2189738Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189739Aligned.out.bam	GSM2189739Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189740Aligned.out.bam	GSM2189740Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189741Aligned.out.bam	GSM2189741Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189742Aligned.out.bam	GSM2189742Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189743Aligned.out.bam	GSM2189743Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189744Aligned.out.bam	GSM2189744Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189745Aligned.out.bam	GSM2189745Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189746Aligned.out.bam	GSM2189746Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189747Aligned.out.bam	GSM2189747Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189748Aligned.out.bam	GSM2189748Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189749Aligned.out.bam	GSM2189749Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189750Aligned.out.bam	GSM2189750Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189751Aligned.out.bam	GSM2189751Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189752Aligned.out.bam	GSM2189752Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189753Aligned.out.bam	GSM2189753Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189754Aligned.out.bam	GSM2189754Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189755Aligned.out.bam	GSM2189755Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189756Aligned.out.bam	GSM2189756Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189757Aligned.out.bam	GSM2189757Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189758Aligned.out.bam	GSM2189758Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189759Aligned.out.bam	GSM2189759Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189760Aligned.out.bam	GSM2189760Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189761Aligned.out.bam	GSM2189761Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189762Aligned.out.bam	GSM2189762Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189763Aligned.out.bam	GSM2189763Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189764Aligned.out.bam	GSM2189764Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189765Aligned.out.bam	GSM2189765Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189766Aligned.out.bam	GSM2189766Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189767Aligned.out.bam	GSM2189767Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189768Aligned.out.bam	GSM2189768Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189769Aligned.out.bam	GSM2189769Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189770Aligned.out.bam	GSM2189770Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189771Aligned.out.bam	GSM2189771Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189772Aligned.out.bam	GSM2189772Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189773Aligned.out.bam	GSM2189773Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189774Aligned.out.bam	GSM2189774Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189775Aligned.out.bam	GSM2189775Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189776Aligned.out.bam	GSM2189776Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189777Aligned.out.bam	GSM2189777Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189778Aligned.out.bam	GSM2189778Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189779Aligned.out.bam	GSM2189779Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189780Aligned.out.bam	GSM2189780Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189781Aligned.out.bam	GSM2189781Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189782Aligned.out.bam	GSM2189782Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189783Aligned.out.bam	GSM2189783Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189784Aligned.out.bam	GSM2189784Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189785Aligned.out.bam	GSM2189785Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189786Aligned.out.bam	GSM2189786Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189787Aligned.out.bam	GSM2189787Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189788Aligned.out.bam	GSM2189788Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189789Aligned.out.bam	GSM2189789Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189790Aligned.out.bam	GSM2189790Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189791Aligned.out.bam	GSM2189791Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189792Aligned.out.bam	GSM2189792Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189793Aligned.out.bam	GSM2189793Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189794Aligned.out.bam	GSM2189794Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189795Aligned.out.bam	GSM2189795Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189796Aligned.out.bam	GSM2189796Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189797Aligned.out.bam	GSM2189797Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189798Aligned.out.bam	GSM2189798Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189799Aligned.out.bam	GSM2189799Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189800Aligned.out.bam	GSM2189800Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189801Aligned.out.bam	GSM2189801Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189802Aligned.out.bam	GSM2189802Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189803Aligned.out.bam	GSM2189803Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189804Aligned.out.bam	GSM2189804Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189805Aligned.out.bam	GSM2189805Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189806Aligned.out.bam	GSM2189806Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189807Aligned.out.bam	GSM2189807Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189808Aligned.out.bam	GSM2189808Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189809Aligned.out.bam	GSM2189809Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189810Aligned.out.bam	GSM2189810Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189811Aligned.out.bam	GSM2189811Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189812Aligned.out.bam	GSM2189812Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189813Aligned.out.bam	GSM2189813Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189814Aligned.out.bam	GSM2189814Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189815Aligned.out.bam	GSM2189815Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189816Aligned.out.bam	GSM2189816Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189817Aligned.out.bam	GSM2189817Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189818Aligned.out.bam	GSM2189818Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189819Aligned.out.bam	GSM2189819Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189820Aligned.out.bam	GSM2189820Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189821Aligned.out.bam	GSM2189821Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189822Aligned.out.bam	GSM2189822Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189823Aligned.out.bam	GSM2189823Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189824Aligned.out.bam	GSM2189824Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189825Aligned.out.bam	GSM2189825Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189826Aligned.out.bam	GSM2189826Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189827Aligned.out.bam	GSM2189827Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189828Aligned.out.bam	GSM2189828Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189829Aligned.out.bam	GSM2189829Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189830Aligned.out.bam	GSM2189830Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189831Aligned.out.bam	GSM2189831Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189832Aligned.out.bam	GSM2189832Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189833Aligned.out.bam	GSM2189833Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189834Aligned.out.bam	GSM2189834Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189835Aligned.out.bam	GSM2189835Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189836Aligned.out.bam	GSM2189836Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189837Aligned.out.bam	GSM2189837Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189838Aligned.out.bam	GSM2189838Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189839Aligned.out.bam	GSM2189839Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189840Aligned.out.bam	GSM2189840Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189841Aligned.out.bam	GSM2189841Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189842Aligned.out.bam	GSM2189842Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189843Aligned.out.bam	GSM2189843Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189844Aligned.out.bam	GSM2189844Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189845Aligned.out.bam	GSM2189845Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189846Aligned.out.bam	GSM2189846Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189847Aligned.out.bam	GSM2189847Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189848Aligned.out.bam	GSM2189848Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189849Aligned.out.bam	GSM2189849Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189850Aligned.out.bam	GSM2189850Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189851Aligned.out.bam	GSM2189851Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189852Aligned.out.bam	GSM2189852Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189853Aligned.out.bam	GSM2189853Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189854Aligned.out.bam	GSM2189854Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189855Aligned.out.bam	GSM2189855Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189856Aligned.out.bam	GSM2189856Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189857Aligned.out.bam	GSM2189857Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189858Aligned.out.bam	GSM2189858Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189859Aligned.out.bam	GSM2189859Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189860Aligned.out.bam	GSM2189860Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189861Aligned.out.bam	GSM2189861Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189862Aligned.out.bam	GSM2189862Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189863Aligned.out.bam	GSM2189863Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189864Aligned.out.bam	GSM2189864Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189865Aligned.out.bam	GSM2189865Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189866Aligned.out.bam	GSM2189866Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189867Aligned.out.bam	GSM2189867Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189868Aligned.out.bam	GSM2189868Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189869Aligned.out.bam	GSM2189869Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189870Aligned.out.bam	GSM2189870Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189871Aligned.out.bam	GSM2189871Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189872Aligned.out.bam	GSM2189872Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189873Aligned.out.bam	GSM2189873Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189874Aligned.out.bam	GSM2189874Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189875Aligned.out.bam	GSM2189875Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189876Aligned.out.bam	GSM2189876Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189877Aligned.out.bam	GSM2189877Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189878Aligned.out.bam	GSM2189878Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189879Aligned.out.bam	GSM2189879Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189880Aligned.out.bam	GSM2189880Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189881Aligned.out.bam	GSM2189881Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189882Aligned.out.bam	GSM2189882Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189883Aligned.out.bam	GSM2189883Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189884Aligned.out.bam	GSM2189884Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189885Aligned.out.bam	GSM2189885Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189886Aligned.out.bam	GSM2189886Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189887Aligned.out.bam	GSM2189887Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189888Aligned.out.bam	GSM2189888Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189889Aligned.out.bam	GSM2189889Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189890Aligned.out.bam	GSM2189890Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189891Aligned.out.bam	GSM2189891Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189892Aligned.out.bam	GSM2189892Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189893Aligned.out.bam	GSM2189893Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189894Aligned.out.bam	GSM2189894Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189895Aligned.out.bam	GSM2189895Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189896Aligned.out.bam	GSM2189896Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189897Aligned.out.bam	GSM2189897Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189898Aligned.out.bam	GSM2189898Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189899Aligned.out.bam	GSM2189899Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189900Aligned.out.bam	GSM2189900Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189901Aligned.out.bam	GSM2189901Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189902Aligned.out.bam	GSM2189902Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189903Aligned.out.bam	GSM2189903Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189904Aligned.out.bam	GSM2189904Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189905Aligned.out.bam	GSM2189905Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189906Aligned.out.bam	GSM2189906Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189907Aligned.out.bam	GSM2189907Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189908Aligned.out.bam	GSM2189908Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189909Aligned.out.bam	GSM2189909Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189910Aligned.out.bam	GSM2189910Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189911Aligned.out.bam	GSM2189911Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189912Aligned.out.bam	GSM2189912Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189913Aligned.out.bam	GSM2189913Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189914Aligned.out.bam	GSM2189914Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189915Aligned.out.bam	GSM2189915Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189916Aligned.out.bam	GSM2189916Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189917Aligned.out.bam	GSM2189917Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189918Aligned.out.bam	GSM2189918Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189919Aligned.out.bam	GSM2189919Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189920Aligned.out.bam	GSM2189920Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189921Aligned.out.bam	GSM2189921Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189922Aligned.out.bam	GSM2189922Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189923Aligned.out.bam	GSM2189923Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189924Aligned.out.bam	GSM2189924Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189925Aligned.out.bam	GSM2189925Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189926Aligned.out.bam	GSM2189926Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189927Aligned.out.bam	GSM2189927Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189928Aligned.out.bam	GSM2189928Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189929Aligned.out.bam	GSM2189929Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189930Aligned.out.bam	GSM2189930Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189931Aligned.out.bam	GSM2189931Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189932Aligned.out.bam	GSM2189932Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189933Aligned.out.bam	GSM2189933Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189934Aligned.out.bam	GSM2189934Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189935Aligned.out.bam	GSM2189935Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189936Aligned.out.bam	GSM2189936Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189937Aligned.out.bam	GSM2189937Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189938Aligned.out.bam	GSM2189938Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189939Aligned.out.bam	GSM2189939Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189940Aligned.out.bam	GSM2189940Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189941Aligned.out.bam	GSM2189941Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189942Aligned.out.bam	GSM2189942Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189943Aligned.out.bam	GSM2189943Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189944Aligned.out.bam	GSM2189944Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189945Aligned.out.bam	GSM2189945Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189946Aligned.out.bam	GSM2189946Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189947Aligned.out.bam	GSM2189947Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189948Aligned.out.bam	GSM2189948Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189949Aligned.out.bam	GSM2189949Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189950Aligned.out.bam	GSM2189950Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189951Aligned.out.bam	GSM2189951Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189952Aligned.out.bam	GSM2189952Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189953Aligned.out.bam	GSM2189953Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189954Aligned.out.bam	GSM2189954Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189955Aligned.out.bam	GSM2189955Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189956Aligned.out.bam	GSM2189956Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189957Aligned.out.bam	GSM2189957Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189958Aligned.out.bam	GSM2189958Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189959Aligned.out.bam	GSM2189959Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189960Aligned.out.bam	GSM2189960Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189961Aligned.out.bam	GSM2189961Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189962Aligned.out.bam	GSM2189962Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189963Aligned.out.bam	GSM2189963Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189964Aligned.out.bam	GSM2189964Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189965Aligned.out.bam	GSM2189965Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189966Aligned.out.bam	GSM2189966Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189967Aligned.out.bam	GSM2189967Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189968Aligned.out.bam	GSM2189968Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189969Aligned.out.bam	GSM2189969Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189970Aligned.out.bam	GSM2189970Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189971Aligned.out.bam	GSM2189971Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189972Aligned.out.bam	GSM2189972Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189973Aligned.out.bam	GSM2189973Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189974Aligned.out.bam	GSM2189974Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189975Aligned.out.bam	GSM2189975Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189976Aligned.out.bam	GSM2189976Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189977Aligned.out.bam	GSM2189977Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189978Aligned.out.bam	GSM2189978Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189979Aligned.out.bam	GSM2189979Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189980Aligned.out.bam	GSM2189980Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189981Aligned.out.bam	GSM2189981Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189982Aligned.out.bam	GSM2189982Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189983Aligned.out.bam	GSM2189983Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189984Aligned.out.bam	GSM2189984Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189985Aligned.out.bam	GSM2189985Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189986Aligned.out.bam	GSM2189986Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189987Aligned.out.bam	GSM2189987Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189988Aligned.out.bam	GSM2189988Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189989Aligned.out.bam	GSM2189989Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189990Aligned.out.bam	GSM2189990Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189991Aligned.out.bam	GSM2189991Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189992Aligned.out.bam	GSM2189992Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189993Aligned.out.bam	GSM2189993Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189994Aligned.out.bam	GSM2189994Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189995Aligned.out.bam	GSM2189995Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189996Aligned.out.bam	GSM2189996Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189997Aligned.out.bam	GSM2189997Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189998Aligned.out.bam	GSM2189998Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2189999Aligned.out.bam	GSM2189999Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190000Aligned.out.bam	GSM2190000Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190001Aligned.out.bam	GSM2190001Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190002Aligned.out.bam	GSM2190002Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190003Aligned.out.bam	GSM2190003Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190004Aligned.out.bam	GSM2190004Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190005Aligned.out.bam	GSM2190005Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190006Aligned.out.bam	GSM2190006Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190007Aligned.out.bam	GSM2190007Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190008Aligned.out.bam	GSM2190008Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190009Aligned.out.bam	GSM2190009Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190010Aligned.out.bam	GSM2190010Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190011Aligned.out.bam	GSM2190011Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190012Aligned.out.bam	GSM2190012Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190013Aligned.out.bam	GSM2190013Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190014Aligned.out.bam	GSM2190014Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190015Aligned.out.bam	GSM2190015Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190016Aligned.out.bam	GSM2190016Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190017Aligned.out.bam	GSM2190017Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190018Aligned.out.bam	GSM2190018Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190019Aligned.out.bam	GSM2190019Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190020Aligned.out.bam	GSM2190020Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190021Aligned.out.bam	GSM2190021Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190022Aligned.out.bam	GSM2190022Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190023Aligned.out.bam	GSM2190023Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190024Aligned.out.bam	GSM2190024Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190025Aligned.out.bam	GSM2190025Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190026Aligned.out.bam	GSM2190026Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190027Aligned.out.bam	GSM2190027Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190028Aligned.out.bam	GSM2190028Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190029Aligned.out.bam	GSM2190029Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190030Aligned.out.bam	GSM2190030Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190031Aligned.out.bam	GSM2190031Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190032Aligned.out.bam	GSM2190032Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190033Aligned.out.bam	GSM2190033Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190034Aligned.out.bam	GSM2190034Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190035Aligned.out.bam	GSM2190035Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190036Aligned.out.bam	GSM2190036Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190037Aligned.out.bam	GSM2190037Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190038Aligned.out.bam	GSM2190038Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190039Aligned.out.bam	GSM2190039Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190040Aligned.out.bam	GSM2190040Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190041Aligned.out.bam	GSM2190041Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190042Aligned.out.bam	GSM2190042Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190043Aligned.out.bam	GSM2190043Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190044Aligned.out.bam	GSM2190044Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190045Aligned.out.bam	GSM2190045Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190046Aligned.out.bam	GSM2190046Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190047Aligned.out.bam	GSM2190047Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190048Aligned.out.bam	GSM2190048Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190049Aligned.out.bam	GSM2190049Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190050Aligned.out.bam	GSM2190050Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190051Aligned.out.bam	GSM2190051Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190052Aligned.out.bam	GSM2190052Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190053Aligned.out.bam	GSM2190053Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190054Aligned.out.bam	GSM2190054Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190055Aligned.out.bam	GSM2190055Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190056Aligned.out.bam	GSM2190056Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190057Aligned.out.bam	GSM2190057Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190058Aligned.out.bam	GSM2190058Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190059Aligned.out.bam	GSM2190059Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190060Aligned.out.bam	GSM2190060Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190061Aligned.out.bam	GSM2190061Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190062Aligned.out.bam	GSM2190062Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190063Aligned.out.bam	GSM2190063Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190064Aligned.out.bam	GSM2190064Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190065Aligned.out.bam	GSM2190065Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190066Aligned.out.bam	GSM2190066Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190067Aligned.out.bam	GSM2190067Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190068Aligned.out.bam	GSM2190068Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190069Aligned.out.bam	GSM2190069Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190070Aligned.out.bam	GSM2190070Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190071Aligned.out.bam	GSM2190071Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190072Aligned.out.bam	GSM2190072Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190073Aligned.out.bam	GSM2190073Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190074Aligned.out.bam	GSM2190074Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190075Aligned.out.bam	GSM2190075Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190076Aligned.out.bam	GSM2190076Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190077Aligned.out.bam	GSM2190077Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190078Aligned.out.bam	GSM2190078Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190079Aligned.out.bam	GSM2190079Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190080Aligned.out.bam	GSM2190080Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190081Aligned.out.bam	GSM2190081Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190082Aligned.out.bam	GSM2190082Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190083Aligned.out.bam	GSM2190083Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190084Aligned.out.bam	GSM2190084Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190085Aligned.out.bam	GSM2190085Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190086Aligned.out.bam	GSM2190086Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190087Aligned.out.bam	GSM2190087Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190088Aligned.out.bam	GSM2190088Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190089Aligned.out.bam	GSM2190089Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190090Aligned.out.bam	GSM2190090Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190091Aligned.out.bam	GSM2190091Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190092Aligned.out.bam	GSM2190092Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190093Aligned.out.bam	GSM2190093Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190094Aligned.out.bam	GSM2190094Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190095Aligned.out.bam	GSM2190095Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190096Aligned.out.bam	GSM2190096Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190097Aligned.out.bam	GSM2190097Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190098Aligned.out.bam	GSM2190098Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190099Aligned.out.bam	GSM2190099Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190100Aligned.out.bam	GSM2190100Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190101Aligned.out.bam	GSM2190101Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190102Aligned.out.bam	GSM2190102Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190103Aligned.out.bam	GSM2190103Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190104Aligned.out.bam	GSM2190104Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190105Aligned.out.bam	GSM2190105Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190106Aligned.out.bam	GSM2190106Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190107Aligned.out.bam	GSM2190107Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190108Aligned.out.bam	GSM2190108Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190109Aligned.out.bam	GSM2190109Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190110Aligned.out.bam	GSM2190110Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190111Aligned.out.bam	GSM2190111Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190112Aligned.out.bam	GSM2190112Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190113Aligned.out.bam	GSM2190113Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190114Aligned.out.bam	GSM2190114Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190115Aligned.out.bam	GSM2190115Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190116Aligned.out.bam	GSM2190116Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190117Aligned.out.bam	GSM2190117Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190118Aligned.out.bam	GSM2190118Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190119Aligned.out.bam	GSM2190119Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190120Aligned.out.bam	GSM2190120Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190121Aligned.out.bam	GSM2190121Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190122Aligned.out.bam	GSM2190122Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190123Aligned.out.bam	GSM2190123Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190124Aligned.out.bam	GSM2190124Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190125Aligned.out.bam	GSM2190125Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190126Aligned.out.bam	GSM2190126Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190127Aligned.out.bam	GSM2190127Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190128Aligned.out.bam	GSM2190128Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190129Aligned.out.bam	GSM2190129Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190130Aligned.out.bam	GSM2190130Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190131Aligned.out.bam	GSM2190131Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190132Aligned.out.bam	GSM2190132Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190133Aligned.out.bam	GSM2190133Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190134Aligned.out.bam	GSM2190134Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190135Aligned.out.bam	GSM2190135Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190136Aligned.out.bam	GSM2190136Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190137Aligned.out.bam	GSM2190137Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190138Aligned.out.bam	GSM2190138Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190139Aligned.out.bam	GSM2190139Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190140Aligned.out.bam	GSM2190140Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190141Aligned.out.bam	GSM2190141Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190142Aligned.out.bam	GSM2190142Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190143Aligned.out.bam	GSM2190143Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190144Aligned.out.bam	GSM2190144Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190145Aligned.out.bam	GSM2190145Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190146Aligned.out.bam	GSM2190146Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190147Aligned.out.bam	GSM2190147Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190148Aligned.out.bam	GSM2190148Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190149Aligned.out.bam	GSM2190149Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190150Aligned.out.bam	GSM2190150Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190151Aligned.out.bam	GSM2190151Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190152Aligned.out.bam	GSM2190152Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190153Aligned.out.bam	GSM2190153Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190154Aligned.out.bam	GSM2190154Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190155Aligned.out.bam	GSM2190155Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190156Aligned.out.bam	GSM2190156Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190157Aligned.out.bam	GSM2190157Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190158Aligned.out.bam	GSM2190158Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190159Aligned.out.bam	GSM2190159Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190160Aligned.out.bam	GSM2190160Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190161Aligned.out.bam	GSM2190161Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190162Aligned.out.bam	GSM2190162Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190163Aligned.out.bam	GSM2190163Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190164Aligned.out.bam	GSM2190164Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190165Aligned.out.bam	GSM2190165Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190166Aligned.out.bam	GSM2190166Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190167Aligned.out.bam	GSM2190167Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190168Aligned.out.bam	GSM2190168Aligned.out_counts_genes_mm9.txt	Single
+Neurons	Steve_quake Striatum scRNAseq	GSM2190169Aligned.out.bam	GSM2190169Aligned.out_counts_genes_mm9.txt	Single
+NK_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536421Aligned.out.bam	SRR1536421Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq	SRR1536422Aligned.out.bam	SRR1536422Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	ImmGen RNAseq	SRR1976589Aligned.out.bam	SRR1976589Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6,Liver_DX5min-CD49plus_NK	SRR1023840Aligned.out.bam	SRR1023840Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6,Liver_DX5min-CD49plus_NK	SRR1023841Aligned.out.bam	SRR1023841Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Liver_DX5plus_NK	SRR1023842Aligned.out.bam	SRR1023842Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Liver_DX5plus_NK	SRR1023843Aligned.out.bam	SRR1023843Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Liver_NK1.1min-CD49plus_NK	SRR1023833Aligned.out.bam	SRR1023833Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Liver_NK1.1min-CD49plus_NK	SRR1023834Aligned.out.bam	SRR1023834Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Liver_NK1.1min-CD49plus_NK	SRR1023835Aligned.out.bam	SRR1023835Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6,Liver_NK1.1plus-CD49plus_NK	SRR1023831Aligned.out.bam	SRR1023831Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6,Liver_NK1.1plus-CD49plus_NK	SRR1023832Aligned.out.bam	SRR1023832Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Spleen_DX5plus_NK	SRR1023844Aligned.out.bam	SRR1023844Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Spleen_DX5plus_NK	SRR1023845Aligned.out.bam	SRR1023845Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Spleen_NK1.1min-CD49plus_NK	SRR1023836Aligned.out.bam	SRR1023836Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Spleen_NK1.1min-CD49plus_NK	SRR1023837Aligned.out.bam	SRR1023837Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Spleen_NK1.1min-CD49plus_NK	SRR1023838Aligned.out.bam	SRR1023838Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	C57BL/6, Spleen_NK1.1min-CD49plus_NK	SRR1023839Aligned.out.bam	SRR1023839Aligned.out_counts_genes_mm9.txt	Bulk
+NK_cells	NK Cell_C57BL/6J__4 to 6 (week)_natural killer cell_NK1.1+, B220-, IgM-, Gr1-, Mac1-, Ter119-__                  	ERR674988Aligned.out.bam	ERR674988Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vivo, 3m	E_young_CAligned.out.bam	E_young_CAligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vivo, 3m	E_young_DAligned.out.bam	E_young_DAligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vivo, 3m	E_young_EAligned.out.bam	E_young_EAligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vivo, 3m	E_young_FAligned.out.bam	E_young_FAligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vitro, 3m	NPC_3m4Aligned.out.bam	NPC_3m4Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vitro, 3m	NPC_3m3Aligned.out.bam	NPC_3m3Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vitro, 3m	NPC_3m2Aligned.out.bam	NPC_3m2Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs SVZ in vitro, 3m	NPC_3m1Aligned.out.bam	NPC_3m1Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep1	SRR1997857Aligned.out.bam	SRR1997857Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep2	SRR1997858Aligned.out.bam	SRR1997858Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep3	SRR1997859Aligned.out.bam	SRR1997859Aligned.out_counts_genes_mm9.txt	Bulk
+NPCs	NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep4	SRR1997860Aligned.out.bam	SRR1997860Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P7 Aldh1l1-EGFP transgenic mice of both genders, Myelinating_oligodendrocyte	SRR1033791Aligned.out.bam	SRR1033791Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P7 Aldh1l1-EGFP transgenic mice of both genders, Myelinating_oligodendrocyte	SRR1033792Aligned.out.bam	SRR1033792Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P7 Aldh1l1-EGFP transgenic mice of both genders, Newly_formed_oligodendrocyte	SRR1033789Aligned.out.bam	SRR1033789Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P7 Aldh1l1-EGFP transgenic mice of both genders, Newly_formed_oligodendrocyte	SRR1033790Aligned.out.bam	SRR1033790Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P18 brain oligodendrocytes_RNASeq_n1	SRR1810040Aligned.out.bam	SRR1810040Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P18 brain oligodendrocytes_RNASeq_n2	SRR1810041Aligned.out.bam	SRR1810041Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	P18 brain oligodendrocytes_RNASeq_n3	SRR1810042Aligned.out.bam	SRR1810042Aligned.out_counts_genes_mm9.txt	Bulk
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2188977Aligned.out.bam	GSM2188977Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189318Aligned.out.bam	GSM2189318Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189319Aligned.out.bam	GSM2189319Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189323Aligned.out.bam	GSM2189323Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189324Aligned.out.bam	GSM2189324Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189325Aligned.out.bam	GSM2189325Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189336Aligned.out.bam	GSM2189336Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189343Aligned.out.bam	GSM2189343Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189346Aligned.out.bam	GSM2189346Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189367Aligned.out.bam	GSM2189367Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189464Aligned.out.bam	GSM2189464Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189468Aligned.out.bam	GSM2189468Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189475Aligned.out.bam	GSM2189475Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189479Aligned.out.bam	GSM2189479Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189480Aligned.out.bam	GSM2189480Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189481Aligned.out.bam	GSM2189481Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189482Aligned.out.bam	GSM2189482Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189484Aligned.out.bam	GSM2189484Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189486Aligned.out.bam	GSM2189486Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189488Aligned.out.bam	GSM2189488Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189490Aligned.out.bam	GSM2189490Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189492Aligned.out.bam	GSM2189492Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189496Aligned.out.bam	GSM2189496Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189500Aligned.out.bam	GSM2189500Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189501Aligned.out.bam	GSM2189501Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189510Aligned.out.bam	GSM2189510Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189512Aligned.out.bam	GSM2189512Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189514Aligned.out.bam	GSM2189514Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189519Aligned.out.bam	GSM2189519Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189520Aligned.out.bam	GSM2189520Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189521Aligned.out.bam	GSM2189521Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189526Aligned.out.bam	GSM2189526Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189541Aligned.out.bam	GSM2189541Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189547Aligned.out.bam	GSM2189547Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189550Aligned.out.bam	GSM2189550Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189551Aligned.out.bam	GSM2189551Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189555Aligned.out.bam	GSM2189555Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189558Aligned.out.bam	GSM2189558Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189559Aligned.out.bam	GSM2189559Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189561Aligned.out.bam	GSM2189561Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189562Aligned.out.bam	GSM2189562Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189580Aligned.out.bam	GSM2189580Aligned.out_counts_genes_mm9.txt	Single
+Oligodendrocytes	Steve_quake Striatum scRNAseq	GSM2189597Aligned.out.bam	GSM2189597Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189234Aligned.out.bam	GSM2189234Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189320Aligned.out.bam	GSM2189320Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189470Aligned.out.bam	GSM2189470Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189487Aligned.out.bam	GSM2189487Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189493Aligned.out.bam	GSM2189493Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189497Aligned.out.bam	GSM2189497Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189498Aligned.out.bam	GSM2189498Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189499Aligned.out.bam	GSM2189499Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189502Aligned.out.bam	GSM2189502Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189534Aligned.out.bam	GSM2189534Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189535Aligned.out.bam	GSM2189535Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189636Aligned.out.bam	GSM2189636Aligned.out_counts_genes_mm9.txt	Single
+OPCs	Steve_quake Striatum scRNAseq	GSM2189663Aligned.out.bam	GSM2189663Aligned.out_counts_genes_mm9.txt	Single
+qNSCs	qNSCs SVZ, 3m	PG_young_DAligned.out.bam	PG_young_DAligned.out_counts_genes_mm9.txt	Bulk
+qNSCs	qNSCs SVZ, 3m	PG_young_EAligned.out.bam	PG_young_EAligned.out_counts_genes_mm9.txt	Bulk
+qNSCs	qNSCs SVZ, 3m	PG_young_FAligned.out.bam	PG_young_FAligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+	SRR1536413Aligned.out.bam	SRR1536413Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+	SRR1536414Aligned.out.bam	SRR1536414Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+	SRR1536415Aligned.out.bam	SRR1536415Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+	SRR1536416Aligned.out.bam	SRR1536416Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	ImmGen RNAseq,  CD4+	SRR1976591Aligned.out.bam	SRR1976591Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+	SRR1536417Aligned.out.bam	SRR1536417Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+	SRR1536418Aligned.out.bam	SRR1536418Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+	SRR1536419Aligned.out.bam	SRR1536419Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+	SRR1536420Aligned.out.bam	SRR1536420Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	ImmGen RNAseq,  CD8+	SRR1976592Aligned.out.bam	SRR1976592Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,Th1_cells	SRR038535Aligned.out.bam	SRR038535Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,Th1_cells	SRR096543Aligned.out.bam	SRR096543Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,Th17_cells	SRR038539Aligned.out.bam	SRR038539Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,Th17_cells	SRR096541Aligned.out.bam	SRR096541Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,Th2_cells	SRR038537Aligned.out.bam	SRR038537Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	C57BL/6,Th2_cells	SRR096545Aligned.out.bam	SRR096545Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	ImmGen RNAseq,TRCgd	SRR1976594Aligned.out.bam	SRR1976594Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	ImmGen RNAseq,Treg_cells	SRR1976590Aligned.out.bam	SRR1976590Aligned.out_counts_genes_mm9.txt	Bulk
+T_cells	T Cell_C57BL/6J__4 to 6 (week)_T cell_CD3+, CD4+, CD8+, B220-, IgM-, Ter119-, Gr1-, Mac1-__                      	ERR674980Aligned.out.bam	ERR674980Aligned.out_counts_genes_mm9.txt	Bulk

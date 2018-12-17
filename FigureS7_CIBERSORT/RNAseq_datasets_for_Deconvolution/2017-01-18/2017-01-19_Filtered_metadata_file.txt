@@ -1,0 +1,281 @@
+Sample Cell_type NOTES Type
+ERR525589Aligned Adipocytes Classical brown adipocyte Bulk
+ERR525592Aligned Adipocytes Classical brown adipocyte Bulk
+SRR275532Aligned Adipocytes cultured brown adipocyte Bulk
+SRR275534Aligned Adipocytes primary brown adipocyte Bulk
+SRR278172Aligned Adipocytes cultured brown adipocyte Bulk
+ERR525591Aligned Adipocytes rosiglitazone-treated adipocyte (beige cell) Bulk
+ERR525593Aligned Adipocytes rosiglitazone-treated adipocyte (beige cell) Bulk
+ERR525590Aligned Adipocytes inguinal white adipocyte Bulk
+ERR525594Aligned Adipocytes inguinal white adipocyte Bulk
+SRR1873549Aligned Adipocytes gonadal white adipose tissue, male Bulk
+SRR1873550Aligned Adipocytes gonadal white adipose tissue, male Bulk
+SRR1873551Aligned Adipocytes gonadal white adipose tissue, male Bulk
+SRR275529Aligned Adipocytes cultured White_adipocytes Bulk
+SRR275533Aligned Adipocytes primary White_adipocytes Bulk
+PGE_young_DAligned aNSCs aNSCs SVZ, 3m Bulk
+PGE_young_EAligned aNSCs aNSCs SVZ, 3m Bulk
+PGE_young_FAligned aNSCs aNSCs SVZ, 3m Bulk
+SRR1997853Aligned aNSCs NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep1 Bulk
+SRR1997854Aligned aNSCs NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep2 Bulk
+SRR1997855Aligned aNSCs NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep3 Bulk
+SRR1997856Aligned aNSCs NSCs hippocampus; LPA1-GFP+EGFR+Prominin1+, rep4 Bulk
+SRR1033783Aligned Astrocytes P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR1033784Aligned Astrocytes P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR2961938Aligned Astrocytes Female 7months Bulk
+SRR2961946Aligned Astrocytes Female 13months Bulk
+SRR2961948Aligned Astrocytes Female 13months Bulk
+SRR2961952Aligned Astrocytes Female 7months Bulk
+SRR2961955Aligned Astrocytes Female 7months Bulk
+SRR2961965Aligned Astrocytes Female 13months Bulk
+SRR2961968Aligned Astrocytes Female 13months Bulk
+SRR2961971Aligned Astrocytes Male 13months Bulk
+SRR2961973Aligned Astrocytes Female 7months Bulk
+SRR2961985Aligned Astrocytes Female 7months Bulk
+G_young_CAligned Astrocytes Astrocytes SVZ, 3m Bulk
+G_young_DAligned Astrocytes Astrocytes SVZ, 3m Bulk
+G_young_EAligned Astrocytes Astrocytes SVZ, 3m Bulk
+G_young_FAligned Astrocytes Astrocytes SVZ, 3m Bulk
+SRR2557110Aligned Astrocytes Mouse 4 month astro SRR2557110 Bulk
+SRR2557111Aligned Astrocytes Mouse 7 month astro SRR2557111 Bulk
+SRR2557112Aligned Astrocytes Mouse 9 month astro SRR2557112 Bulk
+SRR1033795Aligned Endothelial_cells P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR1033796Aligned Endothelial_cells P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+CD31_young_CAligned Endothelial_cells Endothelial cell SVZ, 3m Bulk
+CD31_young_DAligned Endothelial_cells Endothelial cell SVZ, 3m Bulk
+CD31_young_EAligned Endothelial_cells Endothelial cell SVZ, 3m Bulk
+CD31_young_FAligned Endothelial_cells Endothelial cell SVZ, 3m Bulk
+ERR599390Aligned Endothelial_cells C57BL/6NJ, 4 to 6 week. GFP+ CD31+ VE-Cadherin+ CD45-Ter119-7AAD-  Bulk
+SRR1631762Aligned Endothelial_cells 1_KT+VECs_rep1, vascular endothelial cells Bulk
+SRR1631763Aligned Endothelial_cells 2_KT+VECs_rep2, vascular endothelial cells Bulk
+SRR1631764Aligned Endothelial_cells 3_KT+VECs_rep3, vascular endothelial cells Bulk
+SRR1631765Aligned Endothelial_cells 4_KT-VECs_rep1, vascular endothelial cells Bulk
+SRR1631766Aligned Endothelial_cells 5_KT-VECs_rep2, vascular endothelial cells Bulk
+SRR1631767Aligned Endothelial_cells 6_KT-VECs_rep3, vascular endothelial cells Bulk
+SRR1536427Aligned Erythrocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536428Aligned Erythrocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536429Aligned Erythrocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+ERR674978Aligned Erythrocytes Nuc.Erythro_C57BL/6J__4 to 6 (week)_nucleate erythrocyte_Ter119+, CD71+, CD3-, CD4-, CD8-, B220-, IgM-, Gr1-, Mac1- Bulk
+SRR1536401Aligned Granulocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536402Aligned Granulocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536403Aligned Granulocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536404Aligned Granulocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536405Aligned Granulocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536406Aligned Granulocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+ERR674984Aligned Granulocytes Granulo_C57BL/6J__4 to 6 (week)_granulocyte_Gr1+, Mac1+, CD3-, CD4-, CD8-, IgM-, Ter119-__                       Bulk
+SRR1976571Aligned Granulocytes ImmGen RNAseq Neutrophils Bulk
+SRR1653925Aligned Granulocytes b05_Neutrophil1_Exp2 Neutrophils Bulk
+SRR1653926Aligned Granulocytes b07_Neutrophil3_Exp2 Neutrophils Bulk
+SRR1171332Aligned Granulocytes 141 Srf WT, Mature Gr1 high, 7/4 high, SSC high neutrophils Bulk
+SRR1171333Aligned Granulocytes 142 Srf WT, Mature Gr1 high, 7/4 high, SSC high neutrophils Bulk
+SRR1184581Aligned Granulocytes 2276_1_WT_1 GSE55633 Neutrophils Bulk
+SRR1184582Aligned Granulocytes 2276_2_WT_2 GSE55633 Neutrophils Bulk
+SRR1184583Aligned Granulocytes 2276_3_WT_3 GSE55633 Neutrophils Bulk
+SRR1184584Aligned Granulocytes 2276_5_WT_5  GSE55633 Neutrophils Bulk
+SRR1536397Aligned Macrophages C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages Bulk
+SRR1536398Aligned Macrophages C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages Bulk
+SRR1536399Aligned Macrophages C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages Bulk
+SRR1536400Aligned Macrophages C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, Bone_marrow_derived_macrophages Bulk
+SRR1634674Aligned Macrophages C57BL6/J, RNA-Seq, Bone_marrow_derived_macrophages Bulk
+SRR1634708Aligned Macrophages C57BL6/J, polyA RNA-Seq, Bone_marrow_derived_macrophages Bulk
+SRR496223Aligned Macrophages 8 weeks, Bone_marrow_derived_macrophages Bulk
+SRR496224Aligned Macrophages 8 weeks, Bone_marrow_derived_macrophages Bulk
+ERR599391Aligned Macrophages C57BL/6NJ, 4 to 6 week. bone marrow populations Bulk
+SRR1653939Aligned Macrophages b04_Kupffer_Exp2, liver Bulk
+SRR1653940Aligned Macrophages b15_Kupffer2_Exp2, liver Bulk
+SRR1976597Aligned Macrophages ImmGen RNAseq, Peritoneal_macrophages Bulk
+SRR1634712Aligned Macrophages C57BL6/J, polyA RNA-Seq, peritoneal_thioglycolate-elicited_macrophages Bulk
+SRR1634676Aligned Macrophages C57BL6/J, Ribozero RNA-Seq, Small_peritoneal_macrophages Bulk
+SRR1634710Aligned Macrophages C57BL6/J, polyA RNA-Seq, Small_peritoneal_macrophages Bulk
+SRR1634675Aligned Macrophages C57BL6/J, Ribozero RNA-Seq, Peritoneal_macrophages Bulk
+SRR1634709Aligned Macrophages C57BL6/J, polyA RNA-Seq, Peritoneal_macrophages Bulk
+SRR1634740Aligned Macrophages NOD/ShiLtJ, RNA-Seq , Peritoneal_macrophages Bulk
+SRR1634741Aligned Macrophages SPRET/EiJ, RNA-Seq , Peritoneal_macrophages Bulk
+SRR1653933Aligned Macrophages a06_peritoneum_Mac1_Exp1_m, Peritoneal_macrophages Bulk
+SRR1653934Aligned Macrophages a06_peritoneum_Mac1_Exp1_m, Peritoneal_macrophages Bulk
+SRR1653935Aligned Macrophages a07_peritoneum_Mac2_Exp1_m, Peritoneal_macrophages Bulk
+SRR1653936Aligned Macrophages a07_peritoneum_Mac2_Exp1_m, Peritoneal_macrophages Bulk
+SRR1033793Aligned Microglia P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR1033794Aligned Microglia P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR1634672Aligned Microglia NOD/ShiLtJ, RNA-Seq  Bulk
+SRR1634673Aligned Microglia SPRET/EiJ, RNA-Seq  Bulk
+SRR1634677Aligned Microglia C57BL6/J, Ribozero RNA-Seq Bulk
+SRR1634711Aligned Microglia C57BL6/J, polyA RNA-Seq Bulk
+SRR1634721Aligned Microglia C57BL6/J, RNA-Seq  Bulk
+SRR2961935Aligned Microglia Female 13months Bulk
+SRR2961945Aligned Microglia Female 7months Bulk
+SRR2961950Aligned Microglia Female 13months Bulk
+SRR2961959Aligned Microglia Female 7months Bulk
+SRR2961967Aligned Microglia Male 13months Bulk
+SRR2961975Aligned Microglia Female 13months Bulk
+SRR2961978Aligned Microglia Female 7months Bulk
+SRR2961982Aligned Microglia Female 13months Bulk
+SRR2961986Aligned Microglia Female 7months Bulk
+SRR2961987Aligned Microglia Female 7months Bulk
+SRR1653929Aligned Microglia a01_brain_microglia1_Exp1_m Bulk
+SRR1653930Aligned Microglia a01_brain_microglia1_Exp1_m Bulk
+SRR1653931Aligned Microglia a02_brain_microglia2_Exp1_m Bulk
+SRR1653932Aligned Microglia a02_brain_microglia2_Exp1_m Bulk
+SRR1068302Aligned Microglia LCM_GFP-S1-22689-1, Microglia Bulk
+SRR1068303Aligned Microglia LCM_GFP-S2-22835-3, Microglia Bulk
+SRR1068304Aligned Microglia LCM_GFP-S3-22690-2, Microglia Bulk
+SRR1068305Aligned Microglia LCM_GFP-S4-22691-8, Microglia Bulk
+SRR1068306Aligned Microglia FACS_WT-S5-1135739, Microglia Bulk
+SRR1068308Aligned Microglia FACS_WT-S6--1135740, Microglia Bulk
+SRR1068310Aligned Microglia FACS_WT-S7-1135741, Microglia Bulk
+SRR1068312Aligned Microglia FACS_GFP-S8-1135742, Microglia Bulk
+SRR1068313Aligned Microglia FACS_GFP-S9-1135743, Microglia Bulk
+SRR1068314Aligned Microglia FACS_GFP-S10-1135744, Microglia Bulk
+SRR1536407Aligned Monocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536408Aligned Monocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536409Aligned Monocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536410Aligned Monocytes C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1653927Aligned Monocytes b10_Monocyte1_Exp2 Bulk
+SRR1653928Aligned Monocytes b11_Monocyte2_Exp2 Bulk
+ERR674981Aligned Monocytes Mono_C57BL/6J__4 to 6 (week)_monocyte_Gr1 medium, Mac1+, CFMS+, CD3-, CD4-, CD8-, IgM-, Ter119-__           Bulk
+SRR1033785Aligned Neurons P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR1033786Aligned Neurons P7 Aldh1l1-EGFP transgenic mice of both genders Bulk
+SRR2961933Aligned Neurons Female 13months Bulk
+SRR2961941Aligned Neurons Male 13months Bulk
+SRR2961949Aligned Neurons Female 7months Bulk
+SRR2961954Aligned Neurons Female 7months Bulk
+SRR2961956Aligned Neurons Female 7months Bulk
+SRR2961969Aligned Neurons Female 13months Bulk
+SRR2961972Aligned Neurons Female 13months Bulk
+SRR2961974Aligned Neurons Female 7months Bulk
+SRR2961983Aligned Neurons Female 7months Bulk
+SRR2961984Aligned Neurons Female 7months Bulk
+SRR2961988Aligned Neurons Female 13months Bulk
+SRR2961991Aligned Neurons Female 7months Bulk
+SRR1647856Aligned Neurons C57BL6J/129, 8-11 weeks, Parvalbumin_inhibitory_neurons Bulk
+SRR1647857Aligned Neurons C57BL6J/129, 8-11 weeks, Parvalbumin_inhibitory_neurons Bulk
+SRR1647858Aligned Neurons C57BL6J/129, 8-11 weeks, Vasoactive_intestinal_peptide_inhibitory_neurons Bulk
+SRR1647859Aligned Neurons C57BL6J/129, 8-11 weeks, Vasoactive_intestinal_peptide_inhibitory_neurons Bulk
+SRR1016945Aligned Neurons Lumbar segment spinal cord, Ventral horn motor neurons,  Postnatal day 1 Bulk
+SRR1016946Aligned Neurons Lumbar segment spinal cord, Ventral horn motor neurons,  Postnatal day 1 Bulk
+SRR1557080Aligned Neurons d7, immature, cerebellar cortical neurons Bulk
+SRR1557081Aligned Neurons d7, immature, cerebellar cortical neurons Bulk
+SRR1557082Aligned Neurons d7, immature, cerebellar cortical neurons Bulk
+SRR1647854Aligned Neurons C57BL6J/129, 8-11 weeks, excitatory_pyramidal_neurons Bulk
+SRR1647855Aligned Neurons C57BL6J/129, 8-11 weeks, excitatory_pyramidal_neurons Bulk
+SRR1536421Aligned NK_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536422Aligned NK_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1976589Aligned NK_cells ImmGen RNAseq Bulk
+SRR1023840Aligned NK_cells C57BL/6,Liver_DX5min-CD49plus_NK Bulk
+SRR1023841Aligned NK_cells C57BL/6,Liver_DX5min-CD49plus_NK Bulk
+SRR1023842Aligned NK_cells C57BL/6, Liver_DX5plus_NK Bulk
+SRR1023843Aligned NK_cells C57BL/6, Liver_DX5plus_NK Bulk
+SRR1023833Aligned NK_cells C57BL/6, Liver_NK1.1min-CD49plus_NK Bulk
+SRR1023834Aligned NK_cells C57BL/6, Liver_NK1.1min-CD49plus_NK Bulk
+SRR1023835Aligned NK_cells C57BL/6, Liver_NK1.1min-CD49plus_NK Bulk
+SRR1023831Aligned NK_cells C57BL/6,Liver_NK1.1plus-CD49plus_NK Bulk
+SRR1023832Aligned NK_cells C57BL/6,Liver_NK1.1plus-CD49plus_NK Bulk
+SRR1023844Aligned NK_cells C57BL/6, Spleen_DX5plus_NK Bulk
+SRR1023845Aligned NK_cells C57BL/6, Spleen_DX5plus_NK Bulk
+SRR1023836Aligned NK_cells C57BL/6, Spleen_NK1.1min-CD49plus_NK Bulk
+SRR1023837Aligned NK_cells C57BL/6, Spleen_NK1.1min-CD49plus_NK Bulk
+SRR1023838Aligned NK_cells C57BL/6, Spleen_NK1.1min-CD49plus_NK Bulk
+SRR1023839Aligned NK_cells C57BL/6, Spleen_NK1.1min-CD49plus_NK Bulk
+ERR674988Aligned NK_cells NK Cell_C57BL/6J__4 to 6 (week)_natural killer cell_NK1.1+, B220-, IgM-, Gr1-, Mac1-, Ter119-__                   Bulk
+E_young_CAligned NPCs NPCs SVZ in vivo, 3m Bulk
+E_young_DAligned NPCs NPCs SVZ in vivo, 3m Bulk
+E_young_EAligned NPCs NPCs SVZ in vivo, 3m Bulk
+E_young_FAligned NPCs NPCs SVZ in vivo, 3m Bulk
+NPC_3m4Aligned NPCs NPCs SVZ in vitro, 3m Bulk
+NPC_3m3Aligned NPCs NPCs SVZ in vitro, 3m Bulk
+NPC_3m2Aligned NPCs NPCs SVZ in vitro, 3m Bulk
+NPC_3m1Aligned NPCs NPCs SVZ in vitro, 3m Bulk
+SRR1997857Aligned NPCs NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep1 Bulk
+SRR1997858Aligned NPCs NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep2 Bulk
+SRR1997859Aligned NPCs NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep3 Bulk
+SRR1997860Aligned NPCs NPCs hippocampus in vivo, LPA1-GFP+EGFR+Prominin-1-, LPA1-GFP+EGF-Prominin-1+ and LPA1-GFP+EGFR-Prominin-1-, rep4 Bulk
+SRR1033791Aligned Oligodendrocytes P7 Aldh1l1-EGFP transgenic mice of both genders, Myelinating_oligodendrocyte Bulk
+SRR1033792Aligned Oligodendrocytes P7 Aldh1l1-EGFP transgenic mice of both genders, Myelinating_oligodendrocyte Bulk
+SRR1033789Aligned Oligodendrocytes P7 Aldh1l1-EGFP transgenic mice of both genders, Newly_formed_oligodendrocyte Bulk
+SRR1033790Aligned Oligodendrocytes P7 Aldh1l1-EGFP transgenic mice of both genders, Newly_formed_oligodendrocyte Bulk
+SRR1810040Aligned Oligodendrocytes P18 brain oligodendrocytes_RNASeq_n1 Bulk
+SRR1810041Aligned Oligodendrocytes P18 brain oligodendrocytes_RNASeq_n2 Bulk
+SRR1810042Aligned Oligodendrocytes P18 brain oligodendrocytes_RNASeq_n3 Bulk
+PG_young_DAligned qNSCs qNSCs SVZ, 3m Bulk
+PG_young_EAligned qNSCs qNSCs SVZ, 3m Bulk
+PG_young_FAligned qNSCs qNSCs SVZ, 3m Bulk
+SRR1536413Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+ Bulk
+SRR1536414Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+ Bulk
+SRR1536415Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+ Bulk
+SRR1536416Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD4+ Bulk
+SRR1976591Aligned T_cells ImmGen RNAseq,  CD4+ Bulk
+SRR1536417Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+ Bulk
+SRR1536418Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+ Bulk
+SRR1536419Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+ Bulk
+SRR1536420Aligned T_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq, CD8+ Bulk
+SRR1976592Aligned T_cells ImmGen RNAseq,  CD8+ Bulk
+SRR038535Aligned T_cells C57BL/6,Th1_cells Bulk
+SRR096543Aligned T_cells C57BL/6,Th1_cells Bulk
+SRR038539Aligned T_cells C57BL/6,Th17_cells Bulk
+SRR096541Aligned T_cells C57BL/6,Th17_cells Bulk
+SRR038537Aligned T_cells C57BL/6,Th2_cells Bulk
+SRR096545Aligned T_cells C57BL/6,Th2_cells Bulk
+SRR1976594Aligned T_cells ImmGen RNAseq,TRCgd Bulk
+SRR1976590Aligned T_cells ImmGen RNAseq,Treg_cells Bulk
+ERR674980Aligned T_cells T Cell_C57BL/6J__4 to 6 (week)_T cell_CD3+, CD4+, CD8+, B220-, IgM-, Ter119-, Gr1-, Mac1-__                       Bulk
+Cardiomyocyte_pseudo_Bulk Cardiomyocytes Cardiomyocytes_PseudoBulk PseudoBulk
+SRR1390711Aligned Cardiomyocytes FVB/NJ, 12 weeks,female,tissue: heart Bulk
+SRR1390712Aligned Cardiomyocytes FVB/NJ, 12 weeks,female,tissue: heart Bulk
+SRR1390713Aligned Cardiomyocytes FVB/NJ, 12 weeks,female,tissue: heart Bulk
+Cardiomyocytes_added_runs_1 Cardiomyocytes isolated adult mouse ventricular cardiomyocytes, CM_1 Bulk
+Cardiomyocytes_added_runs_2 Cardiomyocytes isolated adult mouse ventricular cardiomyocytes, CM_2 Bulk
+Cardiomyocytes_added_runs_3 Cardiomyocytes isolated adult mouse ventricular cardiomyocytes, CM_3 Bulk
+SRR964799Aligned Cardiomyocytes PN67, adult Bulk
+SRR964800Aligned Cardiomyocytes PN30 Bulk
+Neurons_5HT_pseudoBulk Neurons Neurons_PseudoBulk PseudoBulk
+Neuron_olfactory_sensory_pseudoBulk Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_pyramidal_cortex_pseudoBulk Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_pyramidal_hippo_pseudoBulk Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_Striatum_pseudoBulk_1 Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_Striatum_pseudoBulk_2 Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_Striatum_pseudoBulk_3 Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_Striatum_pseudoBulk_4 Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_Striatum_pseudoBulk_5 Neurons Neurons_PseudoBulk PseudoBulk
+Neurons_Striatum_pseudoBulk_6 Neurons Neurons_PseudoBulk PseudoBulk
+Hepatocyte_pooled_Bulk2 Hepatocytes Hepatocyte_pooled_Bulk pooled_Bulk
+SRR1286091Aligned Hepatocytes Primary mouse hepatocyte Bulk
+SRR2040945Aligned Hepatocytes Primary mouse hepatocytes, gene expression profiling (RNA-seq, mRNA), 19h control treatment, biological replicate 1 Bulk
+SRR2040946Aligned Hepatocytes Primary mouse hepatocytes, gene expression profiling (RNA-seq, mRNA), 19h control treatment, biological replicate 2 Bulk
+SRR2040947Aligned Hepatocytes Primary mouse hepatocytes, gene expression profiling (RNA-seq, mRNA), 19h control treatment, biological replicate 3 Bulk
+SRR1536411Aligned B_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1536412Aligned B_cells C57BL/6,12 to 15 weeks-old mice, 3' RNA-seq Bulk
+SRR1976588Aligned B_cells ImmGen RNAseq, B1ab_cells Bulk
+SRR1976593Aligned B_cells ImmGen RNAseq, CD19+_B_cell Bulk
+B_cells_pseudoBulk_1 B_cells C57BL/6, Ex vivo, Follicular_B_cells Bulk
+ERR674979Aligned B_cells C57BL/6, Ex vivo, Germinal_center_B_cells Bulk
+SRR1390714Aligned Cardiac_Fibroblasts FVB/NJ, 12 weeks,female,tissue: heart Cardiac_fibroblasts Bulk
+SRR1390715Aligned Cardiac_Fibroblasts FVB/NJ, 12 weeks,female,tissue: heart Cardiac_fibroblasts Bulk
+SRR1390716Aligned Cardiac_Fibroblasts FVB/NJ, 12 weeks,female,tissue: heart Cardiac_fibroblasts Bulk
+SRR1015749Aligned Cardiac_Fibroblasts THY1+HE-, control, rep1 Cardiac_fibroblasts Bulk
+SRR1015750Aligned Cardiac_Fibroblasts THY1+HE-, control, rep2 Cardiac_fibroblasts Bulk
+SRR1015751Aligned Cardiac_Fibroblasts THY1+HE-, control, rep3 Cardiac_fibroblasts Bulk
+SRR964795Aligned Cardiac_Fibroblasts PN60, adult Cardiac_fibroblasts Bulk
+SRR964796Aligned Cardiac_Fibroblasts PN28 Cardiac_fibroblasts Bulk
+X3m1_cohort1_dermal_fibroAligned Dermal_Fibroblasts ear fibroblats, culture, 3m Bulk
+X3m2_cohort1_dermal_fibroAligned Dermal_Fibroblasts ear fibroblats, culture, 3m Bulk
+X3m3_cohort4_dermal_fibroAligned Dermal_Fibroblasts ear fibroblats, culture, 3m Bulk
+X3m4_cohort1_dermal_fibroAligned Dermal_Fibroblasts ear fibroblats, culture, 3m Bulk
+X3m6_cohort4_dermal_fibroAligned Dermal_Fibroblasts ear fibroblats, culture, 3m Bulk
+X3m7_cohort4_dermal_fibroAligned Dermal_Fibroblasts ear fibroblats, culture, 3m Bulk
+Bone_fibroblasts_pseudo_bulk Bone_Fibroblasts GSM1888151_Bone_SCA1p_1 Bulk
+Dermal_fibroblasts_pseudo_bulk Dermal_Fibroblasts GSM1888154_Skin_SCA1p_1 Bulk
+Thymus_fibroblasts_pseudo_bulk Thymus_Fibroblasts GSM1888157_Thymus_SCA1p_2 Bulk
+aNSCs_Striatum_pseudoBulk_1 aNSCs aNSCs_PseudoBulk PseudoBulk
+aNSCs_Striatum_pseudoBulk_2 aNSCs aNSCs_PseudoBulk PseudoBulk
+Astrocytes_Striatum_pseudoBulk_1 Astrocytes Astrocytes_PseudoBulk PseudoBulk
+Astrocytes_Striatum_pseudoBulk_2 Astrocytes Astrocytes_PseudoBulk PseudoBulk
+Ependymal_Striatum_pseudoBulk_1 Ependymal Ependymal_PseudoBulk PseudoBulk
+Ependymal_Striatum_pseudoBulk_2 Ependymal Ependymal_PseudoBulk PseudoBulk
+microglia_pseudoBulk_1 Microglia Microglia_PseudoBulk PseudoBulk
+microglia_pseudoBulk_2 Microglia Microglia_PseudoBulk PseudoBulk
+microglia_pseudoBulk_3 Microglia Microglia_PseudoBulk PseudoBulk
+microglia_pseudoBulk_4 Microglia Microglia_PseudoBulk PseudoBulk
+Oligodendrocytes_pseudoBulk_1 Oligodendrocytes Oligodendrocytes_PseudoBulk PseudoBulk
+Oligodendrocytes_pseudoBulk_2 Oligodendrocytes Oligodendrocytes_PseudoBulk PseudoBulk
+Oligodendrocytes_pseudoBulk_3 Oligodendrocytes Oligodendrocytes_PseudoBulk PseudoBulk
+Oligodendrocytes_pseudoBulk_4 Oligodendrocytes Oligodendrocytes_PseudoBulk PseudoBulk
