@@ -1,0 +1,37 @@
+"GeneName"                           Not a feature                                                  
+"age_FC"                             Dynamic                 
+"FDR"                                Not a feature                     
+"age_change"                         Dynamic                     
+"TR"                                 Static            
+"FPKM_3m"                            Static                        
+"H3K4me3_averageIntensity_3m"        Static                                            
+"H3K4me3_age_slope"                  Dynamic                           
+"H3K27ac_averageIntensity_3m"        Static                                            
+"H3K27ac_age_slope"                  Dynamic                           
+"SE_3m"                              Static                    
+"SE_score_3m"                        Static                          
+"SE_aging_slope"                     Dynamic                         
+"SE_TSS_Dist"                        Static                          
+"maxbreadth_y"                       Static                           
+"BD_qt_y"                            Static                      
+"breadth_qt_slope"                   Dynamic                            
+"BD_stat_y"                          Static                    
+"H3K4me1_prom"                       Static                       
+"CTCF_prom"                          Static                    
+"Pol2_prom"                          Static                    
+"Pol2_peaks"                         Static                     
+"Pol2_abs_TSS_dist"                  Static                            
+"Pol2_MACS2_max_score"               Static                               
+"Increased_Nucs"                     Dynamic                         
+"Decreased_Nucs"                     Dynamic                         
+"Max_occupancy_log2FC_age"           Dynamic                                   
+"CpG_promoter_percentage"            Static                                  
+"CG_promoter_percentage"             Static                                 
+"CTCF_peaks"                         Static                     
+"CTCF_abs_TSS_dist"                  Static                            
+"CTCF_MACS2_max_score"               Static                               
+"Constitutive.Exon"                  Static                            
+"CpG_islands"                        Static                      
+"H3K27me3_prom"                      Static                        
+"DNAseI_prom"                        Static                      
+"Bivalent_status"                    Static                          
